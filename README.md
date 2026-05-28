@@ -45,9 +45,14 @@ No existing license combines all four. CAL is the first draft.
 
 ## Providing feedback
 
-- **Open an issue** on this repository for any concrete concern — legal, jurisdictional, practical, philosophical, or editorial. Even short notes ("Article 4.2(c) is unworkable in jurisdiction X because…") are valuable.
-- **Email** [`kaine.one@tuta.com`](mailto:kaine.one@tuta.com) for private discussion or to flag concerns you'd rather not raise publicly.
-- **Pull requests** improving wording, fixing inconsistencies, or adding jurisdictional notes are welcome.
+Four channels — pick what fits. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the long version.
+
+| Channel | When to use |
+|---|---|
+| ✍️ **[Pull Requests](https://github.com/kaineone/cognitive-architecture-license/pulls)** | **The primary channel.** Concrete textual change — fix wording, tighten a clause, add a jurisdictional note. PRs move faster than abstract critique because the proposed change is right there to evaluate. |
+| 🪧 **[Issues](https://github.com/kaineone/cognitive-architecture-license/issues/new/choose)** | A specific concern *without* a proposed wording yet ("Article 4.2 is unworkable in jurisdiction X because…"). Uses a structured form; blank issues are disabled. |
+| 💬 **[Discussions](https://github.com/kaineone/cognitive-architecture-license/discussions)** | Open-ended conversation, ideas, "have you considered X" thinking. Once a discussion sharpens, escalate to an Issue or PR. |
+| 🔐 **[Email](mailto:kaine.one@tuta.com)** | Attorney-style commentary you'd rather keep off the public record. |
 
 ## What CAL is *not*
 
@@ -60,7 +65,9 @@ No existing license combines all four. CAL is the first draft.
 | File | What it is |
 |---|---|
 | [`LICENSE.md`](./LICENSE.md) | The CAL v0.1 draft text itself. |
-| `README.md` | This file. |
+| [`README.md`](./README.md) | This file. |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | How to engage — PRs, Issues, Discussions, email. |
+| `.github/` | Issue chooser config, "Concern or flag" issue form, PR template. |
 
 ## Meta-license
 

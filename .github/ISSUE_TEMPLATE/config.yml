@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Open-ended discussion
+    url: https://github.com/kaineone/cognitive-architecture-license/discussions
+    about: Broad questions, philosophical critique, "have you considered X" — use Discussions, not Issues.
+  - name: ✍️ Concrete textual change → Pull Request
+    url: https://github.com/kaineone/cognitive-architecture-license/compare
+    about: Specific wording change? Open a PR — that's the primary review channel for substantive edits.
+  - name: 🔐 Private channel (email)
+    url: mailto:kaine.one@tuta.com
+    about: For attorney-style commentary you'd rather keep off the public record.

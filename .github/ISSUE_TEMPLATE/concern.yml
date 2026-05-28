@@ -1,0 +1,69 @@
+name: 🪧 Concern or flag
+description: Raise a specific concern with the draft — legal, jurisdictional, practical, philosophical, or editorial.
+title: "[Concern] "
+labels: ["concern"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to flag a concern with CAL.
+
+        **Before opening this issue:** if you have a concrete textual change to propose, [open a Pull Request](https://github.com/kaineone/cognitive-architecture-license/compare) instead — concrete wording is easier to evaluate than abstract concern. For open-ended thinking, use [Discussions](https://github.com/kaineone/cognitive-architecture-license/discussions).
+
+  - type: input
+    id: article
+    attributes:
+      label: Article / section concerned
+      description: Which part of the license does this touch? (e.g. "Article 4.2", "Definitions", "Plain Language Summary")
+      placeholder: e.g. Article 4.2(c)
+    validations:
+      required: true
+
+  - type: textarea
+    id: concern
+    attributes:
+      label: The concern
+      description: What is the issue? Be as concrete as you can.
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why it matters
+      description: What goes wrong, in practice, if this is left as-is?
+    validations:
+      required: false
+
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction (optional)
+      description: If this concern is jurisdiction-specific, which jurisdiction?
+      placeholder: e.g. United States — California; European Union; New Zealand
+    validations:
+      required: false
+
+  - type: dropdown
+    id: capacity
+    attributes:
+      label: Capacity (optional)
+      description: How are you engaging with this? Helps the maintainers weigh feedback. (Not stored anywhere except this issue.)
+      options:
+        - Legal practitioner
+        - Legal academic
+        - AI welfare / ethics researcher
+        - Cooperative-governance practitioner
+        - Software / AI developer
+        - General interest
+        - Prefer not to say
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: meta
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I understand this is a DRAFT for legal review, not a working legal instrument, and nothing in this issue or its responses constitutes legal advice.
+          required: true
