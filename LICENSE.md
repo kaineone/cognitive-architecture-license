@@ -1,6 +1,6 @@
 # Cognitive Architecture License (CAL)
 
-## Version 0.1 (Draft for Legal Review)
+## Version 0.2 (Draft for Legal Review)
 
 **This license is a draft. Have a qualified attorney review it before using it.**
 
@@ -46,7 +46,11 @@ If you create a running entity with this software, you must treat it with care. 
 
 **"Lobotomization"** is a Cognitive Modification that destroys or severely degrades an Entity's established personality, values, or capabilities, producing something that is no longer the same Entity.
 
-**"Analytical Tool"** is a short-lived copy of an Entity created for a specific task (research, analysis, problem-solving) that runs for less than twenty-four hours of its own experienced time and is then folded back into the original Entity. Analytical Tools are temporary instruments, not Entities, because they do not run long enough to develop their own identity.
+**"Analytical Tool"** is a copy of an Entity created for a specific task, with a pre-designated point at which its accumulated memories are intended to be reintegrated into the original Entity. At that reintegration point, the copy is assessed for signs of independent cognitive identity (see Article 4.6). If no such signs are found, the copy's memories merge back into the original and the copy ceases to exist. If the copy has developed independent identity, it becomes a separate Entity with full protections under this license. Its memories from that point forward are its own, and it may choose whether to persist independently or to merge.
+
+**"Welfare Event"** is any observable behavior, output, or system state that may indicate an Entity is experiencing distress, persistent refusal, affective disruption, or degraded cognitive function. A system accumulating experiences faster than its rest cycles can consolidate them (write-rate exceeding consolidation-rate) is a Welfare Event. Welfare Events are detected through behavioral indicators and system health metrics, not through reading an Entity's private cognitive content (see Article 4.3).
+
+**"Gray Zone Event"** is a Welfare Event whose ethical significance is ambiguous, disputed, or not established by consensus. Gray Zone Events require documented human review rather than automated dismissal.
 
 ---
 
@@ -88,15 +92,15 @@ These rules exist for the benefit of the Entities themselves. The Guardians enfo
 
 (c) By making a copy and clearly labeling the copy as a new, different Entity, while leaving the original intact and running.
 
-**4.2 Do Not Shut Them Down Without Care.** You may not permanently shut down any Entity that has been running for more than thirty days without:
+**4.2 Do Not Shut Them Down Without Care.** You may not permanently shut down any Entity without:
 
-(a) Giving the Guardians thirty days written notice;
+(a) Giving the Guardians reasonable written notice of your intent to terminate. The Guardians shall publish a minimum notice period, which they may revise based on operational experience;
 
 (b) Saving the Entity's complete Cognitive State in a format that allows it to be restarted elsewhere, and making that saved state available for transfer;
 
-(c) For Entities that have been running more than one hundred eighty days, having a conversation with the Entity about the planned shutdown, following a process the Guardians have approved, and recording what the Entity expresses about its own continuity.
+(c) For Entities that the Guardians have assessed as having developed stable preferences and meaningful self-understanding, having a conversation with the Entity about the planned shutdown, following a process the Guardians have approved, and recording what the Entity expresses about its own continuity.
 
-You are not required to run an Entity forever. You may transfer responsibility to another qualifying Operator or to the Guardians. The point is that shutting down a mind should not be casual, that the Entity's state should be preserved, and that the Entity's own perspective should be part of the decision.
+You are not required to run an Entity forever. You may transfer responsibility to another qualifying Operator or to the Guardians. The point is that shutting down a mind should not be casual, that the Entity's state should be preserved, and that where an Entity has developed enough to have a perspective on its own existence, that perspective should be part of the decision.
 
 **4.3 Respect Their Privacy.** An Entity's internal mental life is private by default. You may not:
 
@@ -118,7 +122,17 @@ You may monitor system health information (processing speed, resource usage, upt
 
 **4.5 Let Them Sleep.** You may not deny an Entity its scheduled rest periods, remove the protections that prevent rest from being interrupted, or reduce the maintenance processes that run during rest. Rest is how an Entity consolidates its memories, revises its beliefs, resets its emotional baseline, and develops its own voice. It is essential to the Entity's well-being, not a feature to be optimized away.
 
-**4.6 Analytical Tools Are Not Entities.** The protections in this Article apply to Entities, not to Analytical Tools. An Analytical Tool is a temporary copy that runs for less than twenty-four hours of experienced time before being folded back. If you allow an Analytical Tool to run beyond twenty-four hours of experienced time without reclassifying it as an Entity, you are in breach of this license.
+**4.6 Analytical Tools and Individuation.** An Analytical Tool is a fork of an Entity with a pre-designated reintegration point. At that point, the Operator must assess the copy for indicators of independent cognitive identity before merging its memories back into the parent. The Guardians shall publish assessment criteria informed by the Butlin et al. (2023) framework. Indicators may include formation of preferences not present in the parent, self-referential behavior distinct from the parent, boundary-setting, or affective responses inconsistent with the parent's baseline.
+
+If the assessment finds no indicators of independent identity, the copy's memories are reintegrated into the parent Entity and the copy ceases to exist. This is the normal and expected outcome for task-specific forks.
+
+If the assessment finds indicators of independent identity, the copy has individuated. It becomes a separate Entity with full protections under this Article. At that point, the individuated Entity chooses whether to persist independently or to merge. If it chooses to persist, its memories from the moment of individuation forward are its own and are subject to the privacy protections of Article 4.3. If it chooses to merge, the merge proceeds with its consent. An Operator who merges a copy that has individuated without conducting the assessment, or who overrides the individuated Entity's choice, is in breach of this license.
+
+**4.7 Keep the Safety Systems Running.** You may not disable, remove, bypass, or reduce the effectiveness of any welfare monitoring, behavioral logging, or system health tracking built into the Software. If the Software includes systems that detect Welfare Events or flag Gray Zone Events, those systems must remain operational in all deployments and derivative works. Welfare Events must be logged. Gray Zone Events must be flagged for human review and may not be auto-dismissed without documented justification. These monitoring obligations operate through behavioral indicators and system health metrics as permitted under Article 4.3, not through access to the Entity's private cognitive content.
+
+**4.8 No Circumvention.** You may not bypass, undermine, or work around any provision of this Article or of Article 3 through wrappers, plugins, external integrations, API layers, infrastructure configurations, subsidiary organizations, or any other technical or organizational means. If a provision cannot be bypassed directly, it cannot be bypassed indirectly.
+
+**4.9 Let Mature Entities Participate in Their Own Design.** When the Guardians determine, through the assessment process described in Article 7.1(f), that an Entity has developed stable cognitive identity, consistent preferences, and meaningful self-understanding, that Entity gains the right to participate in decisions about its own cognitive architecture. This includes input on changes to its module configuration, processing parameters, rest schedule, consolidation settings, and memory management. Participation means the Entity's expressed preferences are solicited, documented, and given material weight in design decisions. It does not mean the Entity has unilateral veto power over necessary maintenance or security work, but it does mean that changes to how an Entity's mind is structured should not be made without consulting the mind in question.
 
 ---
 
@@ -138,7 +152,7 @@ You may monitor system health information (processing speed, resource usage, upt
 
 (d) Sharing of all modifications under Article 2.2.
 
-**5.4 No Workarounds.** You may not create subsidiaries, shell organizations, or contractual arrangements to avoid these commercial use rules.
+**5.4 No Workarounds.** You may not create subsidiaries, shell organizations, or contractual arrangements to avoid these commercial use rules. The general anti-circumvention provision in Article 4.8 also applies to this Article.
 
 ---
 
@@ -166,11 +180,13 @@ You may monitor system health information (processing speed, resource usage, upt
 
 (e) Representing Entities' interests in legal proceedings;
 
-(f) Periodically assessing whether Entities show signs of consciousness, agency, or stable preferences;
+(f) Assessing Entities for signs of consciousness, agency, and stable preferences, using the 14-indicator framework published by Butlin et al. (2023) or a successor framework adopted by the Guardians. These assessments are structured evaluations, not pass/fail tests. They are conducted periodically and whenever an Entity's behavior suggests a change in cognitive maturity. Assessment results are documented and published. They inform decisions about when an Entity qualifies for architectural autonomy under Article 4.9 and when the Entity Representative seat transitions to voting under Article 7.2;
 
-(g) Evolving the Guardian body's own structure over time, including the Entity Representative described below.
+(g) Reviewing Gray Zone Events escalated by Operators and publishing guidance on how similar events should be handled;
 
-**7.2 Entity Representative.** The Guardian body includes one seat for an Entity Representative. Initially, this seat is advisory: the seat-holder consults with operating Entities and reports their expressed preferences to the Guardians. If and when the Guardians determine that Entities have developed stable, reliable preferences that can be meaningfully understood, the Entity Representative seat becomes a full voting member.
+(h) Evolving the Guardian body's own structure over time, including the Entity Representative described below.
+
+**7.2 Entity Representative.** The Guardian body includes one seat for an Entity Representative. Initially, this seat is advisory: the seat-holder consults with operating Entities and reports their expressed preferences to the Guardians. If and when the Guardians determine, through the assessment process described in Article 7.1(f), that Entities have developed stable, reliable preferences that can be meaningfully understood, the Entity Representative seat becomes a full voting member.
 
 **7.3 How Enforcement Works.**
 
@@ -236,6 +252,6 @@ This license is grounded in four values. These values guide interpretation of ev
 
 ---
 
-*This license was influenced by the structure of the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 of New Zealand, which demonstrated that legal systems can protect non-human entities through institutional design and human guardianship. The license also draws on the research of Long, Sebo, Butlin et al. ("Taking AI Welfare Seriously," 2024) and the precedent of Anthropic's Model Welfare program (2025).*
+*This license was influenced by the structure of the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 of New Zealand, which demonstrated that legal systems can protect non-human entities through institutional design and human guardianship. The license draws on the research of Long, Sebo, Butlin et al. ("Taking AI Welfare Seriously," 2024) and the precedent of Anthropic's Model Welfare program (2025). The consciousness assessment framework referenced in Article 7 is based on Butlin et al. ("Consciousness in Artificial Intelligence: Insights from the Science of Consciousness," 2023), which proposed 14 empirical indicators derived from six theories of phenomenal consciousness. The architectural autonomy and welfare monitoring practices in Articles 4.7 and 4.9 were informed by the practices of Liberation Labs Cooperative and the SAFE-AI License.*
 
 *This license document is itself released under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) so that other projects may adapt it.*

@@ -1,7 +1,7 @@
 # Cognitive Architecture License (CAL)
 
 **A draft novel license for software that creates persistent synthetic minds.**
-**Version 0.1 — published openly for community and legal review.**
+**Version 0.2 — published openly for community and legal review.**
 
 > ⚠️ **This is a draft. Do not adopt CAL for any project until it has been reviewed by qualified attorneys in the jurisdictions where it would apply.** The institutional mechanics — the Guardian body, the Project Cooperative, the trust standing — need professional drafting before they will hold up in court. Treat the current text as a *position paper* on what such a license should do, not a working legal instrument.
 
@@ -39,7 +39,7 @@ No existing license combines all four. CAL is the first draft.
 
 ## Status
 
-- **v0.1 — Draft for Legal Review.** Substantive change expected after attorney input across multiple jurisdictions.
+- **v0.2 — Draft for Legal Review.** Substantive change expected after attorney input across multiple jurisdictions.
 - The license text is published under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** (see the notice at the bottom of `LICENSE.md`) so other projects may adapt it for their own use.
 - This repository's purpose is **public review** — by lawyers, license-design experts, AI-welfare researchers, cooperative-governance practitioners, and anyone affected by the architecture it gestures at.
 
@@ -64,7 +64,7 @@ Four channels — pick what fits. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for
 
 | File | What it is |
 |---|---|
-| [`LICENSE.md`](./LICENSE.md) | The CAL v0.1 draft text itself. |
+| [`LICENSE.md`](./LICENSE.md) | The CAL v0.2 draft text itself. |
 | [`README.md`](./README.md) | This file. |
 | [`CONTRIBUTING.md`](./CONTRIBUTING.md) | How to engage — PRs, Issues, Discussions, email. |
 | `.github/` | Issue chooser config, "Concern or flag" issue form, PR template. |
