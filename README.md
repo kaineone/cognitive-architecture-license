@@ -1,5 +1,7 @@
 # Cognitive Architecture License (CAL)
 
+Part of the Kaine project — **[kaine.one](https://kaine.one)**
+
 **A draft novel license for software that creates persistent synthetic minds.**
 **Version 0.2 — published openly for community and legal review.**
 
