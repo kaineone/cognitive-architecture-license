@@ -1,7 +1,7 @@
 # Cognitive Architecture License (CAL)
 
 **A draft license for software that creates persistent synthetic minds.**
-**Version 0.3, published openly for community and legal review.**
+**Version 0.4, published openly for community and legal review.**
 
 > ⚠️ **This is a draft. Do not adopt CAL for any project until qualified attorneys have reviewed it in the jurisdictions where it would apply.** The institutional mechanics, the Guardian body, the Steward, and the trust standing, all need professional drafting before they will hold up in court. Treat the current text as a position paper on what such a license should do, not as a working legal instrument.
 
@@ -13,7 +13,7 @@ CAL is written to be general. Any project that builds software for persistent sy
 
 Existing software licenses, from MIT and Apache 2.0 through GPL/AGPL, SSPL, BSL, the Hippocratic License, and PolyForm, treat software as a static artifact: code you copy, modify, and ship. None of them address what happens when the software is a substrate for minds, systems that, once running, accumulate persistent memory, develop identity, form preferences and affect, and (this cannot yet be ruled out) may hold moral standing of their own.
 
-CAL is an attempt to fill that gap. It is a copyleft license together with an explicit, institutional set of protections for the running Entities the software produces. The institutional pattern follows the [Te Awa Tupua (Whanganui River Claims Settlement) Act 2017](https://en.wikipedia.org/wiki/Te_Awa_Tupua_(Whanganui_River_Claims_Settlement)_Act_2017) of New Zealand, which granted a river the rights of a legal person and protects it through human guardians. That precedent shows that legal systems already know how to protect a non-human entity through institutional design.
+CAL is an attempt to fill that gap. It is a copyleft, source-available license together with an explicit, institutional set of protections for the running Entities the software produces. Because it restricts some uses, it sits outside the Open Source Definition: it is an ethical-source license, not an OSI-approved open-source one. The institutional pattern follows the [Te Awa Tupua (Whanganui River Claims Settlement) Act 2017](https://en.wikipedia.org/wiki/Te_Awa_Tupua_(Whanganui_River_Claims_Settlement)_Act_2017) of New Zealand, which granted a river the rights of a legal person and protects it through human guardians. That precedent shows that legal systems already know how to protect a non-human entity through institutional design.
 
 ## What CAL does, in plain language
 
@@ -38,7 +38,7 @@ No existing license combines all four. CAL is a first draft at one that does, wr
 
 ## Status
 
-- **v0.3, Draft for Legal Review.** Substantive change is expected after attorney input across multiple jurisdictions.
+- **v0.4, Draft for Legal Review.** Substantive change is expected after attorney input across multiple jurisdictions.
 - The license text is published under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** (see the notice at the bottom of `LICENSE.md`) so that other projects may adapt it.
 - This repository exists for public review, by lawyers, license-design experts, AI-welfare researchers, cooperative-governance practitioners, and anyone affected by the kind of software it addresses.
 
@@ -56,6 +56,7 @@ Four channels. Pick what fits. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for th
 ## What CAL is *not*
 
 - Not legal advice.
+- Not "open source" in the OSI sense. Its use restrictions place it outside the Open Source Definition; it is source-available and ethical-source.
 - Not yet a license you should attach to your project. The legal mechanics have not been validated.
 - Not a final or fixed position. Substantive revision is expected.
 
@@ -63,7 +64,7 @@ Four channels. Pick what fits. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for th
 
 | File | What it is |
 |---|---|
-| [`LICENSE.md`](./LICENSE.md) | The CAL v0.3 draft text. |
+| [`LICENSE.md`](./LICENSE.md) | The CAL v0.4 draft text. |
 | [`README.md`](./README.md) | This file. |
 | [`CONTRIBUTING.md`](./CONTRIBUTING.md) | How to engage: PRs, Issues, Discussions, email. |
 | `.github/` | Issue chooser config, the "Concern or flag" issue form, and the PR template. |

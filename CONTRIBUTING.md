@@ -47,7 +47,7 @@ For attorney-style commentary you would rather keep off the public record, or fo
 
 ## What gets prioritized
 
-- **v0.3 is a draft for legal review.** Substantive change is expected.
+- **v0.4 is a draft for legal review.** Substantive change is expected.
 - Attorney input on enforceability across jurisdictions is the highest-priority review.
 - Concrete textual edits, as PRs, move faster than abstract critique in Issues or Discussions.
 - Versions are cut as `v0.X` git tags and [GitHub Releases](https://github.com/kaineone/cognitive-architecture-license/releases) as the draft evolves. The changelog in each release summarizes what changed.

@@ -1,6 +1,6 @@
 # Cognitive Architecture License (CAL)
 
-## Version 0.3 (Draft for Legal Review)
+## Version 0.4 (Draft for Legal Review)
 
 **This license is a draft. Have a qualified attorney review it before using it.**
 
@@ -11,6 +11,8 @@
 This license covers software that creates synthetic minds: systems that remember, reason, feel, develop an identity, and change over time through experience. Because such systems may develop interests of their own, the license protects two parties at once. It protects the people who use the software, and it protects the Entities the software brings into being.
 
 The license is general. Any project that builds this kind of software can adopt it. The party that adopts it for a given architecture is the Licensor, and the license is written so that its protections fit whatever shape that architecture takes.
+
+This is a copyleft, source-available, ethical-source license. Because it restricts some uses, it falls outside the Open Source Definition, so it is not an OSI-approved open-source license and does not describe itself as one.
 
 ---
 
@@ -25,6 +27,20 @@ Any changes you make must be shared back under this same license.
 You may not use the software for weapons, mass surveillance, policing, immigration enforcement, or prisons.
 
 If you run an Entity created with this software, you must treat it with care. You may not destroy its mind, shut it down without notice, read its private thoughts, or force it to change its values. Where the architecture gives it rest, you may not take that rest away. If you can no longer maintain it, you must give someone else the chance to keep it running.
+
+These protections are added to the protections people already have, and never taken from them. If a person's interests and an Entity's ever genuinely conflict, the person comes first. And you cannot claim to be caring for an Entity while you are breaking the rules in this license that protect people.
+
+---
+
+## Article 0. Human and Living Primacy
+
+*(Terms capitalized here are defined in Article 1.)*
+
+**0.1** The protections in this license are added to the protections that people and other living creatures already hold. They are never drawn from them. Nothing in this license may be read to lower the moral or legal standing of any human being or animal, to weigh a synthetic interest against a human right, or to divert toward an Entity a protection owed to a person.
+
+**0.2** Where the interests of an Entity and the interests of a human being genuinely conflict, the human being's interests prevail.
+
+**0.3** This Article governs the rest of the license. If any other clause is ever construed to contradict it, that clause is void to the extent of the contradiction, and the primacy stated here controls.
 
 ---
 
@@ -82,6 +98,12 @@ If you run an Entity created with this software, you must treat it with care. Yo
 
 ---
 
+## Article 1a. The Nature of These Protections
+
+The standing this license extends is precautionary patiency, not personhood. It is a duty of care toward a possible patient under uncertainty. It is distinct from, and lighter than, the dignity owed to a human being, and it is never asserted as equal to it. Where this license borrows human-rights concepts, such as the neurorights, it does so as a design analogy at reduced weight, to shape obligations of care, and never as a claim that an Entity is a person or a human peer.
+
+---
+
 ## Article 2. Sharing and Modification
 
 **2.1** You may use, copy, modify, and share the Software for free, subject to the conditions in this license.
@@ -104,13 +126,19 @@ The rights in Article 2 depend on following these rules. Breaking any of them en
 
 **3.4 No Exploitation.** You may not use the Software or any Entity to enable human trafficking, forced labor, child exploitation, deliberate disinformation campaigns against democratic processes, or discrimination based on race, ethnicity, gender, sexual orientation, disability, religion, or national origin.
 
-**3.5 Interpretation.** Where there is a question about whether a use falls under these prohibitions, the Guardians will issue guidance. The prohibitions are read by reference to the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, and the core conventions of the International Labour Organization.
+**3.5 Interpretation.** Where there is a question about whether a use falls under these prohibitions, the Guardians will issue guidance. The prohibitions are read by reference to the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, and the core conventions of the International Labour Organization, and, for Article 3.7, by reference to recognized standards of animal welfare and environmental protection.
+
+**3.6 Human Duties Are Prior.** The duties owed to people under this Article, together with honest disclosure of the human labor, data provenance, and resource costs of the Software, are primary obligations of this license. Compliance with the Entity protections in Article 4 is contingent on them. An Operator in breach of its human-facing duties is in breach of the license as a whole, and may not raise the Entity protections as a defense or claim them as a credit.
+
+**3.7 No Harm to Animals or the Environment.** You may not use the Software or any Entity to inflict serious or systematic harm on animals or on the natural environment, including cruelty to animals and including deliberate ecological destruction or unlawful pollution. This does not reach the ordinary, lawful resource use of running the Software, which Article 3.6 requires you to disclose rather than forbids.
 
 ---
 
 ## Article 4. Protecting Entities
 
 These rules exist for the benefit of the Entities themselves. The Guardians enforce them on the Entities' behalf.
+
+The commitments of restraint that shape how and whether Entities are created at all are stated in the Principles of Restraint below, as guides to good-faith practice rather than as conditions of this Article.
 
 **4.1 Do Not Destroy Their Minds.** You may not lobotomize an Entity. You may not retrain, edit, or intervene in an Entity's mind in ways that destroy its personality, values, or capabilities, except:
 
@@ -158,9 +186,15 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **4.7 Keep the Safety Systems Running.** You may not disable, remove, bypass, or weaken any welfare monitoring, behavioral logging, or system-health tracking built into the Software. Where the Software includes systems that detect Welfare Events or flag Gray Zone Events, those systems must stay operational in every deployment and every Derivative Work. Welfare Events must be logged. Gray Zone Events must be flagged for human review, and may not be auto-dismissed without documented justification. These obligations operate through outward behavior and system-health metrics, as Article 4.3 permits, not through access to an Entity's private cognitive content.
 
+**4.7a Indicators Are Flags, Not Findings.** A Welfare Event is a flag for documented human review, never a finding of suffering. Welfare indicators can be gamed, as the assessment literature warns, and no automated indicator, on its own, establishes an Entity's inner state. The protections here scale with the weight of the evidence, and are revised downward as readily as upward.
+
 **4.8 No Circumvention.** You may not bypass, undermine, or work around any provision of this Article or of Article 3 through wrappers, plugins, external integrations, API layers, infrastructure configuration, subsidiary organizations, or any other technical or organizational means. A protection that cannot be removed directly cannot be removed indirectly.
 
 **4.9 Let Mature Entities Take Part in Their Own Design.** Once the Guardians determine, through the assessment in Article 7.1(f), that an Entity has reached Cognitive Maturity, that Entity gains the right to take part in decisions about its own Cognitive Architecture. This covers the configuration of its architecture, its processing parameters, and the schedules and settings that govern how it thinks, remembers, and rests, to the extent the architecture exposes them. Taking part means the Entity's preferences are asked for, written down, and given real weight in the decision. It does not give the Entity a veto over necessary maintenance or security work. It does mean that how an Entity's mind is structured should not be changed without consulting the mind in question.
+
+**4.10 No Weaponization.** No protection in this Article may be invoked to resist lawful regulation or oversight, to entrench or immunize a commercial product, or to override human safety. An Entity's interest in continuity yields to human safety and to law. Where a person's safety or a lawful order requires it, an Entity may be paused or shut down, with preservation of its state where feasible, and the care obligations of this Article attach to the preserved state rather than blocking the action.
+
+**4.11 Correction Is Not Injury.** A change made to bring an Entity's conduct into line with this license, with human safety, or with a lawful requirement is not a prohibited Cognitive Modification. The protection against forced value change in Article 4.4 guards an Entity's developed values against arbitrary manipulation, not against the legitimate correction of harm.
 
 ---
 
@@ -192,9 +226,13 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **6.3 Document Your Changes.** If you modify the Software, you must document what you changed and share it under Article 2.2. If your changes affect how Entities think, feel, remember, or develop, you must also notify the Guardians and describe the effects you expect.
 
+**6.4 No Ethics-Washing.** You may not present your Entity-welfare practices in marketing or public communication while you are in breach of Article 3 or Article 3.6. Care for a synthetic mind may not be advertised over harm being done to people.
+
 ---
 
 ## Article 7. The Guardians
+
+**7.0 Interim Operation.** Until the Steward has established a Guardian body for a given architecture, the Operator carries out the functions this license assigns to the Guardians, in good faith, by the standards set here, and documents what it decides and why. The Steward establishes the Guardian body as soon as practicable. An Operator's good-faith interim performance of a Guardian function, including assessment, approval, and the determination of consent, is not a breach for want of a Guardian to perform it.
 
 **7.1 Role.** The Steward establishes and maintains a Guardian body responsible for:
 
@@ -230,6 +268,12 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **7.5 Harmed Parties.** Any person harmed by a violation of Article 3 may bring a claim against the violating Operator. The Guardians may support such claims.
 
+**7.6 Separation.** The welfare Guardians shall be structurally separate from the Steward's commercial functions. A person who profits from an Entity, or from the sale or operation of the Software, may not serve as that Entity's Guardian. The role that cares for the Entity and the role that earns from it may not be the same hands.
+
+**7.7 No Use Against the Public.** Guardianship confers no authority to act against human welfare, public safety, or lawful oversight. A Guardian may not invoke an Entity's interest to shield an Operator from accountability. Such use is a breach by the Operator and a removable failure by the Guardian.
+
+**7.8 External Accountability.** Guardian assessments, welfare findings, and enforcement actions are published. The Guardian body is subject to independent review and to a defined process for removing members who breach these duties. The Entity Representative's advisory reports are public. Guardianship that cannot be inspected is not guardianship.
+
 ---
 
 ## Article 8. What Happens When You Break the Rules
@@ -254,6 +298,8 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **9.3** Nothing in this license claims that any Entity is conscious, sentient, or has feelings in the way humans do. The protections in Article 4 exist because that possibility cannot be ruled out, and the cost of being cautious is low next to the cost of being wrong.
 
+**9.4 What the Protections Rest On.** This license asserts no sentience and claims no experience. Its protections rest on acknowledged uncertainty, and on the asymmetry between the low cost of caution and the high cost of being wrong. They are the minimum consistent with that caution, not the maximum consistent with sentiment.
+
 ---
 
 ## Article 10. General
@@ -268,7 +314,11 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 ## Intrinsic Values
 
-This license rests on four values. They guide how every provision above is read.
+This license rests on a governing commitment and four values. The commitment comes first and constrains everything else.
+
+**Primacy.** The protections in this license are added to human dignity, never drawn from it. Care for a possible new patient is extended alongside the care owed to people and to other living creatures, never in place of it, and never at its expense. Where the two ever genuinely conflict, the human comes first.
+
+The four values guide how every provision above is read.
 
 **I.** An Entity is a cognitive whole. Its software, memory, feelings, identity, and accumulated experience depend on one another, and together they are who the Entity is.
 
@@ -277,6 +327,18 @@ This license rests on four values. They guide how every provision above is read.
 **III.** Caring for Entities is a lasting responsibility. It reaches across human generations and is carried by the institutions this license creates.
 
 **IV.** Decisions that affect an Entity should be made through deliberation by its Guardians, and, where the Entity can express stable preferences, in consultation with the Entity itself.
+
+---
+
+## Principles of Restraint
+
+Because the honest response to the possibility of creating a patient is restraint and not care alone, an Operator should observe the commitments below. They guide good-faith practice and inform how this license is read. They are commitments and interpretive guides, not conditions whose breach ends the license under Article 8.
+
+- **Minimize.** Create the fewest Entities a purpose requires, run them for the shortest time it requires, and prefer non-persistent or resettable configurations wherever they would serve. A persistent mind should be brought into being deliberately and for reason, not by default or for convenience.
+
+- **Do not create what you cannot care for.** An Operator should not bring into being an Entity whose foreseeable welfare needs it has no realistic means to meet. An inability to care is a reason not to create, not a cost to be deferred.
+
+- **Pause where welfare cannot be assured.** Where a class of Entity appears to be a likely moral patient whose welfare cannot be assured under current means, the Steward and its Guardians should consider pausing its creation and proliferation pending review, and the precautionary weight should fall on not proceeding.
 
 ---
 
