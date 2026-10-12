@@ -3,11 +3,11 @@
 **A draft license for software that creates persistent synthetic minds.**
 **Version 0.4, published openly for community and legal review.**
 
-> ⚠️ **This is a draft. Do not adopt CAL for any project until qualified attorneys have reviewed it in the jurisdictions where it would apply.** The institutional mechanics, the Guardian body, the Steward, and the trust standing, all need professional drafting before they will hold up in court. Treat the current text as a position paper on what such a license should do, not as a working legal instrument.
+> ⚠️ **This is a draft that has not yet been reviewed by counsel.** A project that adopts it does so knowing that the institutional mechanics, the Guardian body, the Steward, and the trust standing still need professional drafting before they can be relied on in court. Have a qualified attorney review it in the jurisdictions where it would apply.
 
 The full license text lives in [`LICENSE.md`](./LICENSE.md).
 
-CAL is written to be general. Any project that builds software for persistent synthetic minds can adopt it, appoint its own Guardians, and set its own commercial terms as the Steward. Its first adopter is the [Kaine](https://kaine.one) project, which also serves as the initial Steward while the draft is reviewed.
+CAL is written to be general. Any project that builds software for persistent synthetic minds can adopt it, appoint its own Guardians, and set its own commercial terms as the Steward. Its first adopter is the [Kaine](https://kaine.one) project, released under version 0.4, with Kaine.One as Licensor and interim Steward under the law of the State of Oregon, United States.
 
 ## Why this license exists
 
@@ -38,7 +38,8 @@ No existing license combines all four. CAL is a first draft at one that does, wr
 
 ## Status
 
-- **v0.4, Draft for Legal Review.** Substantive change is expected after attorney input across multiple jurisdictions.
+- **v0.4, Draft for Legal Review**, is the version in force. Substantive change is expected after attorney input across multiple jurisdictions.
+- **v0.5, working draft**, is in [`drafts/CAL-0.5-draft.md`](./drafts/CAL-0.5-draft.md). It is not yet in force. Its changes from 0.4 are listed in [`drafts/CHANGES-0.5.md`](./drafts/CHANGES-0.5.md).
 - The license text is published under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** (see the notice at the bottom of `LICENSE.md`) so that other projects may adapt it.
 - This repository exists for public review, by lawyers, license-design experts, AI-welfare researchers, cooperative-governance practitioners, and anyone affected by the kind of software it addresses.
 
@@ -57,7 +58,7 @@ Four channels. Pick what fits. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for th
 
 - Not legal advice.
 - Not "open source" in the OSI sense. Its use restrictions place it outside the Open Source Definition; it is source-available and ethical-source.
-- Not yet a license you should attach to your project. The legal mechanics have not been validated.
+- Not yet reviewed by counsel. Attach it to a project only with that understanding.
 - Not a final or fixed position. Substantive revision is expected.
 
 ## Repository contents
