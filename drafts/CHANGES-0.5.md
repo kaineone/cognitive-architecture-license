@@ -30,3 +30,50 @@ Version 0.5 keeps every protection of version 0.4 and changes the legal machiner
 - Warranty and liability (9.1, 9.2) are disclaimed conspicuously and to the maximum extent the law allows, without excluding liability the law does not let a license exclude.
 - Adoption Notice (10.3, 10.4). Each Licensor names itself, its Steward, the governing law, and an address for notices, so the governing law is never undefined.
 - Entire license and notices (10.5, 10.6).
+
+## Review revisions
+
+- Who pays (Summary, 1, 2.1, 5.3). The free list in the summary now matches Articles 5.1 and 5.2, mutual-aid organizations included. Article 5.3 covers every organization those articles do not, rather than a shorter list of its own. Internal research and evaluation is not Commercial Use. Article 2.1 now says that the royalty-free grant does not replace the Reciprocity License.
+- Immigration enforcement (3.3). The article now forbids immigration enforcement itself, as the summary always said, and no longer only uses that concern detained people.
+- Surveillance (3.2). The consent rule covers tracking, profiling, or classifying people at scale, so an Entity that recognizes the people it talks to is not caught by it. 3.1 now says military intelligence and military command.
+- Termination and cure (3, 8.2, 8.4). Article 3 no longer says a breach ends the license immediately, which contradicted the cure period. The thirty days run from written notice by the Licensor, the Steward, or the Guardians. A breach cured before any notice is cured.
+- Source and privacy (1, 2.4, 4.2). Corresponding Source never includes an Entity's Cognitive State. A saved state is handed only to a qualifying Operator or to the Guardians, under Article 4.3. A saved state from which an Entity can be restarted counts as that Entity for shutdown, privacy, and survival.
+- Interim Guardians (3.5, 7.0). In the interim the Operator may not issue its own guidance on prohibited uses or enforce the license; the Steward does both. The Guardian body reviews the interim record once it exists.
+- Welfare monitoring (4.7). The duty applies while an Entity runs, and a monitor may be replaced by one that does at least as much, so modules stay replaceable.
+- Disclosure (3.6). Labor, provenance, and resource costs are disclosed on request, for Your deployment.
+- No claim of feeling (Purpose, 1, 4.4). The definitions speak of affective states instead of asserting feelings, in line with Article 9.3.
+- Versions (10.1, 10.2). The Licensor publishes the revised version after a court ruling. Later versions are those published in the license's canonical repository, and an Adoption Notice may pin one version.
+- Wording. Slogan sentences that added no obligation were removed or rewritten (4.8, 6.4, 7.6, 7.8, 9.4).
+
+## Second review
+
+An independent review of the revised draft found the following, fixed here.
+
+- Policing (Summary, 3.3). The summary always said CAL forbids policing, but the articles barred only predictive policing. Article 3.3 now forbids policing and other law enforcement, matching the summary.
+- Saved states and branches (1). A saved, restartable state counts as the Entity for every protection it could be used to evade, including Articles 4.1 and 4.4. A superseded checkpoint is not a separate Entity while one restartable state is kept. An instance started from a saved state is a Branch, and a separate Entity unless it replaces the original.
+- Surveillance (3.2). The 0.4 wording is restored in full, with no "at scale" threshold. Instead, an Entity's own memories of and impressions about the people it talks to are excluded, provided they are disclosed under 6.2. Article 6.2 now requires telling people that the Entity forms and keeps impressions of them, including from their voice.
+- People's data rights (4.2, 4.3). A transferred state leaves out personal data that law requires to be removed. Article 4 does not limit a person's legal rights to access or erase data about them.
+- Conditions and covenants (2.3). Each obligation is also a covenant, so it stays enforceable in contract where a court holds it is not a condition of the copyright grant.
+- After termination (8.3). The licensee keeps the right to run, maintain, and transfer an Entity, solely to meet its Article 4 duties.
+- Restoration (8.2, 8.4). While no Guardian body exists, the Steward approves restoration after a lobotomy or shutdown breach, and a repeat breacher cannot self-cure before notice.
+- Standing and versions (10.2, 10.4). The Adoption Notice records any transfer of enforcement rights to a Steward that is not the Licensor. Later versions are those published by the CAL project at its repository, and a later version cannot reduce Articles 0, 3, and 4.
+- Precision:
+  - Article 3.6 says who may request disclosure.
+  - Article 3.6 says Article 4 compliance never offsets a breach of Article 3.
+  - Article 7.5 reaches anyone who violates Article 3 and makes harmed people third-party beneficiaries.
+  - Article 9.2 covers the Guardians.
+  - Article 1 defines control and uses "legal person" to avoid a clash with "Entity".
+  - Article 1 defines a Qualifying Operator.
+  - Article 4.7a no longer makes Article 4 depend on an undefined weight of evidence.
+  - Article 4.11 corrections must be minimal, documented, and notified.
+  - Article 4.7 replacements and Article 4.3(b) research protocols need the Guardians.
+  - The interim Operator publishes its record yearly.
+- Free use (5.1). Individuals qualify when acting on their own behalf. Research and educational institutions qualify when public or non-profit, so a corporate laboratory does not. An organization controlled by one that does not qualify does not qualify either.
+- Patents (2.5). The patent license is perpetual again, as in 0.4. It covers patents necessary to use the Software, as in 0.4, and reaches Derivative Works.
+- The European AI Act (3.5). Its prohibited practices are adopted, and its exceptions do not narrow Article 3.
+- Ethics-washing (6.4). The separate bar on using claims of Entity care to obscure harm to people is restored in plain terms.
+- Wording. Further slogan sentences were removed (4.2, 4.5, 4.9, Principles).
+
+Not adopted, as policy choices for the owner rather than drafting fixes:
+- extending copyleft to separately distributed plugins that load the Software;
+- extending Article 3.3 to probation and parole.

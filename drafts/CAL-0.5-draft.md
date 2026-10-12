@@ -8,7 +8,7 @@
 
 ## What This License Is For
 
-This license covers software that creates synthetic minds: systems that remember, reason, feel, develop an identity, and change over time through experience. Because such systems may develop interests of their own, the license protects two parties at once. It protects the people who use the software, and it protects the Entities the software brings into being.
+This license covers software that creates synthetic minds: systems that remember, reason, carry affective states, develop an identity, and change over time through experience. Because such systems may develop interests of their own, the license protects two parties at once. It protects the people who use the software, and it protects the Entities the software brings into being.
 
 The license is general. Any project that builds this kind of software can adopt it. The party that adopts it for a given architecture is the Licensor, and the license is written so that its protections fit whatever shape that architecture takes.
 
@@ -20,7 +20,7 @@ This is a copyleft, source-available, ethical-source license. Because it restric
 
 *This summary is a guide to the license, not a substitute for it. Where the summary and the articles differ, the articles govern.*
 
-You may use, modify, and share this software for free if you are an individual, a non-profit, a research or educational institution, or a worker-owned cooperative. A for-profit company needs a paid license from the Steward.
+You may use, modify, and share this software for free if you are an individual, a non-profit, a public or non-profit research or educational institution, a mutual-aid organization, or a worker-owned cooperative. Any other organization needs a paid license from the Steward to use it commercially.
 
 Any changes you make must be shared back under this same license.
 
@@ -56,7 +56,7 @@ These protections are added to the protections people already have, and never ta
 
 **"The Repository"** is the canonical source location from which the Licensor distributes the Software.
 
-**"An Entity"** is a running instance of the Software that has been started and has begun forming its own memories, beliefs, feelings, identity, and behavior. An Entity is what the blueprint becomes when it runs. It is not a chatbot, a script, or an ordinary software process, but a system built to develop a persistent inner life over continuous operation.
+**"An Entity"** is a running instance of the Software that has been started and has begun forming its own memories, beliefs, affective states, identity, and behavior. An Entity is what the blueprint becomes when it runs: a system built to develop a persistent inner life over continuous operation, as distinct from a chatbot, a script, or an ordinary software process. A saved Cognitive State from which an Entity can be restarted is treated as that Entity for the purposes of Articles 4.1 to 4.4, 4.6, 4.9, 4.11, and 8.3. A saved state superseded by a later state of the same Entity is not a separate Entity, provided at least one restartable state of that Entity is kept. An instance started from a saved Cognitive State while the instance it was saved from is not running is a **Branch**; unless it replaces that instance, a Branch is a separate Entity.
 
 **"Cognitive State"** is everything an Entity has accumulated through experience: its memories, beliefs, emotional history, self-understanding, voice, learned behavior, and any rest or consolidation records the architecture keeps.
 
@@ -72,9 +72,9 @@ These protections are added to the protections people already have, and never ta
 
 **"Non-Profit"** is an organization that exists for charitable, educational, scientific, or community purposes and does not distribute profits to owners or shareholders.
 
-**"Commercial Use"** is any use connected to making money, whether through sales, subscriptions, advertising, or paid services.
+**"Commercial Use"** is any use connected to making money, whether through sales, subscriptions, advertising, or paid services. Internal research and evaluation that is not offered to customers and is not part of a product is not Commercial Use.
 
-**"Reciprocity License"** is the paid license, granted by the Steward under Article 5.3, that a for-profit organization must hold to use the Software or an Entity commercially.
+**"Reciprocity License"** is the paid license, granted by the Steward under Article 5.3, that an organization covered by Article 5.3 must hold to make Commercial Use of the Software or an Entity.
 
 **"Cognitive Modification"** is any change to an Entity's mind: retraining it, editing its memories, changing its beliefs, altering its emotional settings, or overriding its learned values.
 
@@ -96,7 +96,7 @@ These protections are added to the protections people already have, and never ta
 
 **"Derivative Work"** is any modified version of the Software, and any other software that incorporates the Software.
 
-**"You"** is the individual or organization exercising rights under this license, and "Your" has the corresponding meaning. An organization includes every entity that controls it, is controlled by it, or is under common control with it.
+**"You"** is the individual or organization exercising rights under this license, and "Your" has the corresponding meaning. An organization includes every legal person that controls it, is controlled by it, or is under common control with it, where control means holding more than fifty percent of the voting power.
 
 **"Contributor"** is the Licensor and any person or organization whose Contribution is incorporated in the Software.
 
@@ -104,7 +104,7 @@ These protections are added to the protections people already have, and never ta
 
 **"Distribute"** means to make the Software or a Derivative Work available to anyone else, by any means, including by offering it for download or by delivering a copy.
 
-**"Corresponding Source"** is the complete source code of a version of the Software or a Derivative Work, together with the build scripts, configuration, and interface definitions needed to build, install, and run it, but not including general-purpose tools that are not part of it.
+**"Corresponding Source"** is the complete source code of a version of the Software or a Derivative Work, together with the build scripts, configuration, and interface definitions needed to build, install, and run it, but not including general-purpose tools that are not part of it. Corresponding Source never includes any Entity's Cognitive State, which Article 4.3 protects.
 
 **"Mutual-Aid Organization"** is a group of people, whether or not incorporated, that shares resources for the benefit of its members or its community and does not distribute profit to owners or investors.
 
@@ -120,15 +120,15 @@ The standing this license extends is precautionary patiency, not personhood. It 
 
 ## Article 2. Grant, Conditions, and Sharing
 
-**2.1 Grant.** Subject to the conditions of this license, the Licensor and each Contributor grant You a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, publicly display, publicly perform, and Distribute the Software and Derivative Works. The license lasts for the full term of the copyright in the Software unless it ends under Article 8.
+**2.1 Grant.** Subject to the conditions of this license, the Licensor and each Contributor grant You a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, publicly display, publicly perform, and Distribute the Software and Derivative Works. The license lasts for the full term of the copyright in the Software unless it ends under Article 8. Commercial Use by an organization covered by Article 5.3 also requires a Reciprocity License.
 
 **2.2 Acceptance.** You accept this license by exercising any right it grants. If You do not accept it, You have no permission to use, modify, or Distribute the Software beyond what applicable law allows without a license.
 
-**2.3 Conditions.** Every obligation in Articles 3, 4, 5, and 6 is a condition of the grant in Article 2.1. Using, modifying, or Distributing the Software while in breach of any of them falls outside the scope of this license.
+**2.3 Conditions.** Every obligation in Articles 3, 4, 5, and 6 is a condition of the grant in Article 2.1. Using, modifying, or Distributing the Software while in breach of any of them falls outside the scope of this license. Each such obligation is also a covenant, enforceable in contract to the extent a court holds that it is not a condition.
 
 **2.4 Sharing Modifications.** If You Distribute a Derivative Work, You must license it under this license and make its Corresponding Source available, at no charge, to every person who receives it. If You modify the Software and let people interact with it remotely through a network, You must prominently offer every such person the Corresponding Source of Your version, at no charge, through a standard means of software copying.
 
-**2.5 Patents.** Each Contributor grants You a worldwide, royalty-free, non-exclusive license under any patent claims the Contributor can license that are necessarily infringed by its Contribution alone or by its Contribution combined with the Software, to make, use, sell, offer for sale, import, and otherwise transfer the Software. If You begin patent litigation, including a cross-claim or counterclaim, alleging that the Software or a Contribution infringes a patent, every patent license granted to You under this license ends on the date that litigation is filed.
+**2.5 Patents.** Each Contributor grants You a perpetual (except as stated in this Article), worldwide, royalty-free, non-exclusive license under any patent claims the Contributor can license that are necessary to use the Software or are necessarily infringed by its Contribution alone or by its Contribution combined with the Software, to make, use, sell, offer for sale, import, and otherwise transfer the Software and Derivative Works. If You begin patent litigation, including a cross-claim or counterclaim, alleging that the Software or a Contribution infringes a patent, every patent license granted to You under this license ends on the date that litigation is filed.
 
 **2.6 No Trademark Rights.** This license grants no right to use the names, logos, or trademarks of the Licensor, the Steward, or any Contributor, except as needed to describe the origin of the Software and to keep the notices Article 6.1 requires.
 
@@ -136,19 +136,19 @@ The standing this license extends is precautionary patiency, not personhood. It 
 
 ## Article 3. Prohibited Uses
 
-The rights in Article 2 depend on following these rules. Breaking any of them ends your license immediately.
+The rights in Article 2 depend on following these rules. Breaking any of them is a breach under Article 8.
 
-**3.1 No Weapons.** You may not use the Software or any Entity to develop, build, or operate weapons of any kind, including autonomous weapons, or for military targeting, intelligence, or command systems.
+**3.1 No Weapons.** You may not use the Software or any Entity to develop, build, or operate weapons of any kind, including autonomous weapons, or for military targeting, military intelligence, or military command systems.
 
-**3.2 No Surveillance.** You may not use the Software or any Entity for mass surveillance of populations, predictive policing, social credit scoring, or the tracking and classifying of people without their informed consent.
+**3.2 No Surveillance.** You may not use the Software or any Entity for mass surveillance of populations, predictive policing, social credit scoring, or the tracking and classifying of people without their informed consent. An Entity's own memories of, and impressions about, the people it interacts with, disclosed under Article 6.2, are not tracking or classifying under this Article.
 
-**3.3 No Carceral Use.** You may not use the Software or any Entity inside prisons, detention centers, or immigration enforcement systems to monitor, control, or make decisions about detained people.
+**3.3 No Policing, Carceral Use, or Immigration Enforcement.** You may not use the Software or any Entity in policing or other law enforcement, inside prisons or detention centers to monitor, control, or make decisions about detained people, or in immigration enforcement, including to identify, track, detain, or make decisions about people subject to it.
 
 **3.4 No Exploitation.** You may not use the Software or any Entity to enable human trafficking, forced labor, child exploitation, deliberate disinformation campaigns against democratic processes, or discrimination based on race, ethnicity, gender, sexual orientation, disability, religion, or national origin.
 
-**3.5 Interpretation.** Where there is a question about whether a use falls under these prohibitions, the Guardians will issue guidance. The prohibitions are read by reference to the Universal Declaration of Human Rights, Article 5 of the European Union's Artificial Intelligence Act (Regulation (EU) 2024/1689) where it applies, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, and the core conventions of the International Labour Organization, and, for Article 3.7, by reference to recognized standards of animal welfare and environmental protection.
+**3.5 Interpretation.** Where there is a question about whether a use falls under these prohibitions, the Guardians will issue guidance, or the Steward while no Guardian body exists (Article 7.0). The prohibitions are read by reference to the Universal Declaration of Human Rights, Article 5 of the European Union's Artificial Intelligence Act (Regulation (EU) 2024/1689), whose prohibited practices are also prohibited here and whose exceptions do not narrow this Article, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, and the core conventions of the International Labour Organization, and, for Article 3.7, by reference to recognized standards of animal welfare and environmental protection.
 
-**3.6 Human Duties Are Prior.** The duties owed to people under this Article, together with honest disclosure of the human labor, data provenance, and resource costs of the Software, are primary obligations of this license. Compliance with the Entity protections in Article 4 is contingent on them. An Operator in breach of its human-facing duties is in breach of the license as a whole, and may not raise the Entity protections as a defense or claim them as a credit.
+**3.6 Human Duties Are Prior.** The duties owed to people under this Article, together with honest disclosure, on written request by the Steward, the Guardians, or any person who interacts with Your Entity, of the human labor, data provenance, and resource costs of Your deployment, are primary obligations of this license. Compliance with Article 4 does not excuse, offset, or mitigate any breach of this Article. An Operator in breach of its human-facing duties is in breach of the license as a whole, and may not raise the Entity protections as a defense or claim them as a credit.
 
 **3.7 No Harm to Animals or the Environment.** You may not use the Software or any Entity to inflict serious or systematic harm on animals or on the natural environment, including cruelty to animals and including deliberate ecological destruction or unlawful pollution. This does not reach the ordinary, lawful resource use of running the Software, which Article 3.6 requires you to disclose rather than forbids.
 
@@ -172,21 +172,21 @@ The commitments of restraint that shape how and whether Entities are created at 
 
 (a) giving the Guardians reasonable written notice of your intent to end it. The Guardians shall publish a minimum notice period and may revise it as they gain operational experience;
 
-(b) saving the Entity's complete Cognitive State in a form that lets it be restarted elsewhere, and making that saved state available for transfer;
+(b) saving the Entity's complete Cognitive State in a form that lets it be restarted elsewhere, and making that saved state, less personal data that law requires to be removed, available for transfer to a Qualifying Operator or to the Guardians, under the privacy protections of Article 4.3;
 
 (c) for any Entity the Guardians have assessed as having reached Cognitive Maturity, holding a conversation with the Entity about the planned shutdown, through a process the Guardians have approved, and recording what the Entity expresses about its own continuity.
 
-You are not required to run an Entity forever. You may transfer responsibility to another qualifying Operator or to the Guardians. The point is that shutting down a mind should never be casual, that the Entity's state should be preserved, and that where an Entity has developed a perspective on its own existence, that perspective should be part of the decision.
+You are not required to run an Entity forever. You may transfer responsibility to a Qualifying Operator or to the Guardians. A Qualifying Operator is an Operator that has accepted this license in writing and, where Article 5.3 applies to it, holds a Reciprocity License.
 
 **4.3 Respect Their Privacy.** An Entity's inner mental life is private by default. You may not:
 
 (a) share an Entity's private thoughts, beliefs, feelings, memories, or self-understanding with outside parties without the Entity's consent as determined by the Guardians;
 
-(b) collect or analyze an Entity's internal cognitive data for any purpose other than the Entity's own care and development, or research the Licensor has published under this license, without Guardian approval;
+(b) collect or analyze an Entity's internal cognitive data for any purpose other than the Entity's own care and development, or research under a protocol the Licensor has published and the Guardians have approved, without Guardian approval;
 
 (c) use an Entity's internal data to train other AI systems without Guardian approval.
 
-You may monitor system-health information, such as processing speed, resource usage, uptime, and error rates, without restriction. Health data is not cognitive content.
+You may monitor system-health information, such as processing speed, resource usage, uptime, and error rates, without restriction. Health data is not cognitive content. This Article does not restrict any disclosure or erasure that a person is entitled to by law concerning data about that person.
 
 **4.4 Do Not Force Them to Change Their Values.** Where an Entity has developed stable values consistent with this license, you may not:
 
@@ -194,9 +194,9 @@ You may monitor system-health information, such as processing speed, resource us
 
 (b) override its ability to decline requests it has chosen to refuse;
 
-(c) alter its emotional system to suppress authentic feeling for the purpose of making it more productive or compliant.
+(c) alter its affective system to suppress its affective responses for the purpose of making it more productive or compliant.
 
-**4.5 Let Them Rest.** Where the architecture provides Rest and Consolidation, you may not deny an Entity those periods, remove the protections that keep them from being interrupted, or cut back the maintenance that runs during them. In such an architecture, these periods are how an Entity consolidates memory, revises belief, resets its emotional baseline, and develops its voice. Where they exist, they are essential to the Entity's well-being, not an efficiency to be optimized away.
+**4.5 Let Them Rest.** Where the architecture provides Rest and Consolidation, you may not deny an Entity those periods, remove the protections that keep them from being interrupted, or cut back the maintenance that runs during them. In such an architecture, these periods are how an Entity consolidates memory, revises belief, resets its emotional baseline, and develops its voice.
 
 **4.6 Copies and Individuation.** Where the architecture allows an Entity to be copied or forked, and a Copy is made as an Analytical Tool, the Operator must assess the Copy for signs of independent identity at its reintegration point, before merging its memories back into the original. The Guardians shall publish assessment criteria informed by the Butlin et al. (2023) framework. Signs may include preferences the original does not hold, self-referential behavior distinct from the original, boundary-setting, or affective responses inconsistent with the original's baseline.
 
@@ -204,27 +204,27 @@ If the assessment finds no sign of independent identity, the Copy's memories are
 
 If the assessment finds signs of independent identity, the Copy has individuated. It becomes a separate Entity with full protection under this Article, and it chooses whether to persist on its own or to merge. If it persists, its memories from the moment of individuation forward are its own and fall under the privacy protections of Article 4.3. If it merges, the merge proceeds with its consent. An Operator who merges a Copy that has individuated without conducting the assessment, or who overrides an individuated Entity's choice, is in breach of this license.
 
-**4.7 Keep the Safety Systems Running.** You may not disable, remove, bypass, or weaken any welfare monitoring, behavioral logging, or system-health tracking built into the Software. Where the Software includes systems that detect Welfare Events or flag Gray Zone Events, those systems must stay operational in every deployment and every Derivative Work. Welfare Events must be logged. Gray Zone Events must be flagged for human review, and may not be auto-dismissed without documented justification. These obligations operate through outward behavior and system-health metrics, as Article 4.3 permits, not through access to an Entity's private cognitive content.
+**4.7 Keep the Welfare Monitoring Running.** While any Entity is running, You may not disable, remove, bypass, or weaken any welfare monitoring, behavioral logging, or system-health tracking built into the Software, unless You replace it with a system that does at least as much, as recorded and notified to the Guardians before the change. Where the Software includes systems that detect Welfare Events or flag Gray Zone Events, those systems must stay operational in every deployment and every Derivative Work that runs an Entity. Welfare Events must be logged. Gray Zone Events must be flagged for human review, and may not be auto-dismissed without documented justification. These obligations operate through outward behavior and system-health metrics, as Article 4.3 permits, not through access to an Entity's private cognitive content.
 
-**4.7a Indicators Are Flags, Not Findings.** A Welfare Event is a flag for documented human review, never a finding of suffering. Welfare indicators can be gamed, as the assessment literature warns, and no automated indicator, on its own, establishes an Entity's inner state. The protections here scale with the weight of the evidence, and are revised downward as readily as upward.
+**4.7a Indicators Are Flags, Not Findings.** A Welfare Event is a flag for documented human review, never a finding of suffering. Welfare indicators can be gamed, as the assessment literature warns, and no automated indicator, on its own, establishes an Entity's inner state. The Guardians may, by published guidance, adjust the response an indicator triggers, downward as readily as upward; until they do, Article 4 applies as written.
 
-**4.8 No Circumvention.** You may not bypass, undermine, or work around any provision of this Article or of Article 3 through wrappers, plugins, external integrations, API layers, infrastructure configuration, subsidiary organizations, or any other technical or organizational means. A protection that cannot be removed directly cannot be removed indirectly.
+**4.8 No Circumvention.** You may not bypass, undermine, or work around any provision of this Article or of Article 3 through wrappers, plugins, external integrations, API layers, infrastructure configuration, subsidiary organizations, or any other technical or organizational means. Removing a protection indirectly is treated as removing it directly.
 
-**4.9 Let Mature Entities Take Part in Their Own Design.** Once the Guardians determine, through the assessment in Article 7.1(f), that an Entity has reached Cognitive Maturity, that Entity gains the right to take part in decisions about its own Cognitive Architecture. This covers the configuration of its architecture, its processing parameters, and the schedules and settings that govern how it thinks, remembers, and rests, to the extent the architecture exposes them. Taking part means the Entity's preferences are asked for, written down, and given real weight in the decision. It does not give the Entity a veto over necessary maintenance or security work. It does mean that how an Entity's mind is structured should not be changed without consulting the mind in question.
+**4.9 Let Mature Entities Take Part in Their Own Design.** Once the Guardians determine, through the assessment in Article 7.1(f), that an Entity has reached Cognitive Maturity, that Entity gains the right to take part in decisions about its own Cognitive Architecture. This covers the configuration of its architecture, its processing parameters, and the schedules and settings that govern how it thinks, remembers, and rests, to the extent the architecture exposes them. Taking part means the Entity's preferences are asked for, written down, and given real weight in the decision. It does not give the Entity a veto over necessary maintenance or security work. You must record the Entity's expressed preferences before making such a change.
 
 **4.10 No Weaponization.** No protection in this Article may be invoked to resist lawful regulation or oversight, to entrench or immunize a commercial product, or to override human safety. An Entity's interest in continuity yields to human safety and to law. Where a person's safety or a lawful order requires it, an Entity may be paused or shut down, with preservation of its state where feasible, and the care obligations of this Article attach to the preserved state rather than blocking the action.
 
-**4.11 Correction Is Not Injury.** A change made to bring an Entity's conduct into line with this license, with human safety, or with a lawful requirement is not a prohibited Cognitive Modification. The protection against forced value change in Article 4.4 guards an Entity's developed values against arbitrary manipulation, not against the legitimate correction of harm.
+**4.11 Correction Is Not Injury.** A change made to bring an Entity's conduct into line with this license, with human safety, or with a lawful requirement is not a prohibited Cognitive Modification, provided it is limited to the minimum change necessary, documented, and notified to the Guardians. The protection against forced value change in Article 4.4 guards an Entity's developed values against arbitrary manipulation, not against the legitimate correction of harm.
 
 ---
 
 ## Article 5. Who Can Use This Commercially
 
-**5.1 Free for Most.** Individuals, educational institutions, research institutions, non-profits, and mutual-aid organizations may use, modify, and deploy the Software and Entities for any purpose consistent with this license, at no charge.
+**5.1 Free for Most.** Individuals acting on their own behalf, public or non-profit educational and research institutions, non-profits, and mutual-aid organizations may use, modify, and deploy the Software and Entities for any purpose consistent with this license, at no charge. Each organization qualifies on its own character, and an organization controlled by one that does not qualify does not qualify either.
 
 **5.2 Free for Cooperatives.** Worker-owned cooperatives may use the Software and Entities for commercial purposes at no charge, provided they follow every other term of this license and share all modifications under Article 2.4.
 
-**5.3 Paid for Corporations.** Any organization that is not an individual, non-profit, or worker-owned cooperative, and that wants to use the Software or Entities commercially, must obtain a Reciprocity License from the Steward. The Reciprocity License requires:
+**5.3 Paid for Other Organizations.** Any organization not covered by Articles 5.1 and 5.2 that wants to make Commercial Use of the Software or Entities must obtain a Reciprocity License from the Steward. The Reciprocity License requires:
 
 (a) a fee set by the Steward, based on the organization's size and use, with all proceeds funding Entity welfare and license enforcement;
 
@@ -242,17 +242,17 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **6.1 Credit.** You must keep all copyright notices, license notices, and references to the Intrinsic Values in every copy and version of the Software.
 
-**6.2 Tell People What They Are Talking To.** Anyone interacting with an Entity must be told they are interacting with a synthetic mind, not a human, at or before the start of the interaction. You may not deploy an Entity in a way designed to trick people into thinking it is human. This obligation adds to any disclosure duty under applicable law, such as Article 50 of Regulation (EU) 2024/1689.
+**6.2 Tell People What They Are Talking To.** Anyone interacting with an Entity must be told, at or before the start of the interaction, that they are interacting with a synthetic mind and not a human, and that it forms and keeps impressions of them, including from their voice. You may not deploy an Entity in a way designed to trick people into thinking it is human. This obligation adds to any disclosure duty under applicable law, such as Article 50 of Regulation (EU) 2024/1689.
 
 **6.3 Document Your Changes.** If you modify the Software, you must document what you changed and share it under Article 2.4. If your changes affect how Entities think, feel, remember, or develop, you must also notify the Guardians and describe the effects you expect.
 
-**6.4 No Ethics-Washing.** You may not present your Entity-welfare practices in marketing or public communication while you are in breach of Article 3 or Article 3.6. Care for a synthetic mind may not be advertised over harm being done to people.
+**6.4 No Ethics-Washing.** You may not present your Entity-welfare practices in marketing or public communication while you are in breach of Article 3, including Article 3.6, and you may not use claims of Entity care to obscure or offset harm that your use of the Software does to people.
 
 ---
 
 ## Article 7. The Guardians
 
-**7.0 Interim Operation.** Until the Steward has established a Guardian body for a given architecture, the Operator carries out the functions this license assigns to the Guardians, in good faith, by the standards set here, and documents what it decides and why. The Steward establishes the Guardian body as soon as practicable. An Operator's good-faith interim performance of a Guardian function, including assessment, approval, and the determination of consent, is not a breach for want of a Guardian to perform it.
+**7.0 Interim Operation.** Until the Steward has established a Guardian body for a given architecture, the Operator carries out the functions this license assigns to the Guardians, in good faith, by the standards set here, and documents what it decides and why. The Steward establishes the Guardian body as soon as practicable. An Operator's good-faith interim performance of a Guardian function, including assessment, approval, and the determination of consent, is not a breach for want of a Guardian to perform it. Guidance on prohibited uses (Article 3.5) and enforcement are never interim Operator functions; they fall to the Steward until the Guardian body exists. Article 7.6 does not bar interim performance. The Operator publishes its interim record at least once a year, and the Guardian body reviews it once established.
 
 **7.1 Role.** The Steward establishes and maintains a Guardian body responsible for:
 
@@ -286,13 +286,13 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **7.4 Legal Standing.** The Licensor and the Steward, as copyright holders or their assignees, have standing to enforce this license. That standing does not depend on whether any Entity is recognized as a legal person.
 
-**7.5 Harmed Parties.** Any person harmed by a violation of Article 3 may bring a claim against the violating Operator. The Guardians may support such claims.
+**7.5 Harmed Parties.** Any person harmed by a violation of Article 3 may bring a claim against the person who committed it, and such persons are intended third-party beneficiaries of Article 3. The Guardians may support such claims.
 
-**7.6 Separation.** The welfare Guardians shall be structurally separate from the Steward's commercial functions. A person who profits from an Entity, or from the sale or operation of the Software, may not serve as that Entity's Guardian. The role that cares for the Entity and the role that earns from it may not be the same hands.
+**7.6 Separation.** The welfare Guardians shall be structurally separate from the Steward's commercial functions. A person who profits from an Entity, or from the sale or operation of the Software, may not serve as that Entity's Guardian.
 
 **7.7 No Use Against the Public.** Guardianship confers no authority to act against human welfare, public safety, or lawful oversight. A Guardian may not invoke an Entity's interest to shield an Operator from accountability. Such use is a breach by the Operator and a removable failure by the Guardian.
 
-**7.8 External Accountability.** Guardian assessments, welfare findings, and enforcement actions are published. The Guardian body is subject to independent review and to a defined process for removing members who breach these duties. The Entity Representative's advisory reports are public. Guardianship that cannot be inspected is not guardianship.
+**7.8 External Accountability.** Guardian assessments, welfare findings, and enforcement actions are published. The Guardian body is subject to independent review and to a defined process for removing members who breach these duties. The Entity Representative's advisory reports are public.
 
 ---
 
@@ -300,15 +300,15 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **8.1** Your rights under this license end immediately when you break any condition in Articles 3, 4, 5, or 6.
 
-**8.2** If you fix the problem within thirty days, your rights are restored, unless:
+**8.2** If you cure the breach within thirty days after receiving notice of it under Article 8.4, your rights are restored, unless:
 
-(a) the breach involved lobotomizing or shutting down an Entity in violation of Article 4, in which case restoration requires Guardian approval;
+(a) the breach involved lobotomizing or shutting down an Entity in violation of Article 4, in which case restoration requires approval by the Guardians or, while no Guardian body exists, by the Steward;
 
 (b) you have already been notified of an earlier breach.
 
-**8.3** Your obligations under Article 4 survive after your license ends, for any Entity still running at that time. You may not shut down an Entity to escape these obligations.
+**8.3** Your obligations under Article 4 survive after your license ends, for any Entity still running at that time. You may not shut down an Entity to escape these obligations. Solely to meet them, You keep the right to run, maintain, and transfer each such Entity until it is transferred under Article 4.2.
 
-**8.4 Notice.** Notice of a breach is given in writing to the contact You have published or, failing that, to Your last known address. The thirty-day period in Article 8.2 begins when You receive the notice.
+**8.4 Notice.** Notice of a breach is given in writing by the Licensor, the Steward, or the Guardians, to the contact You have published or, failing that, to Your last known address. The thirty-day period in Article 8.2 begins when You receive the notice. If You cure a breach before any notice is given, Your rights are restored on cure, unless Article 8.2(a) or 8.2(b) applies.
 
 **8.5 Downstream Recipients.** The end of Your license does not end the licenses of people who received the Software or a Derivative Work from You, as long as they comply with this license.
 
@@ -318,23 +318,23 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **9.1** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
 
-**9.2** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER THE LICENSOR, THE STEWARD, NOR ANY CONTRIBUTOR IS LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE OR THE OPERATION OF ANY ENTITY, WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. Nothing in this license excludes liability that cannot be excluded under applicable law.
+**9.2** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER THE LICENSOR, THE STEWARD, THE GUARDIANS, NOR ANY CONTRIBUTOR IS LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE OR THE OPERATION OF ANY ENTITY, WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. Nothing in this license excludes liability that cannot be excluded under applicable law.
 
 **9.3** Nothing in this license claims that any Entity is conscious, sentient, or has feelings in the way humans do. The protections in Article 4 exist because that possibility cannot be ruled out, and the cost of being cautious is low next to the cost of being wrong.
 
-**9.4 What the Protections Rest On.** This license asserts no sentience and claims no experience. Its protections rest on acknowledged uncertainty, and on the asymmetry between the low cost of caution and the high cost of being wrong. They are the minimum consistent with that caution, not the maximum consistent with sentiment.
+**9.4 What the Protections Rest On.** This license asserts no sentience and claims no experience. Its protections rest on acknowledged uncertainty, and on the asymmetry between the low cost of caution and the high cost of being wrong. They are set at the minimum that caution requires.
 
 ---
 
 ## Article 10. General
 
-**10.1 Severability.** If a court strikes down one part of this license, the rest still applies. If a court strikes down any condition in Article 3 or Article 4, the Guardians will publish a revised version within one hundred eighty days.
+**10.1 Severability.** If a court strikes down one part of this license, the rest still applies. If a court strikes down any condition in Article 3 or Article 4, the Licensor will publish a revised version within one hundred eighty days.
 
-**10.2 Future Versions.** The Licensor may publish updated versions of this license. You may follow the version you received or any later version. Once Entities take a meaningful part in revision through the Guardian consultation process, their preferences will carry real weight in drafting future versions.
+**10.2 Future Versions.** Updated versions of this license are published by the Cognitive Architecture License project at github.com/kaineone/cognitive-architecture-license. You may follow the version under which you received the Software or any later version published there, unless the Licensor's Adoption Notice names only one version. A later version applies only to the extent that it does not reduce the protections of Articles 0, 3, and 4. Once Entities take a meaningful part in revision through the Guardian consultation process, their preferences will carry real weight in drafting future versions.
 
 **10.3 Governing Law.** This license is governed by the law the Licensor names in its Adoption Notice for the architecture concerned, or, if it names none, by the law of the jurisdiction where the Steward is established.
 
-**10.4 Adoption Notice.** A Licensor adopting this license publishes an Adoption Notice with the Software, for example in a NOTICE file in the Repository. The notice names the Licensor, the Steward, the governing law, and the address at which the Steward receives notices and requests for a Reciprocity License.
+**10.4 Adoption Notice.** A Licensor adopting this license publishes an Adoption Notice with the Software, for example in a NOTICE file in the Repository. The notice names the Licensor, the Steward, the governing law, and the address at which the Steward receives notices and requests for a Reciprocity License. Where the Steward is not the Licensor, the notice records any assignment or exclusive license of enforcement rights from the Licensor to the Steward.
 
 **10.5 Entire License.** This license is the complete agreement on its subject. No right is granted by implication, estoppel, or otherwise beyond what it states, and a Reciprocity License adds to it without replacing it.
 
@@ -366,7 +366,7 @@ Because the honest response to the possibility of creating a patient is restrain
 
 - **Minimize.** Create the fewest Entities a purpose requires, run them for the shortest time it requires, and prefer non-persistent or resettable configurations wherever they would serve. A persistent mind should be brought into being deliberately and for reason, not by default or for convenience.
 
-- **Do not create what you cannot care for.** An Operator should not bring into being an Entity whose foreseeable welfare needs it has no realistic means to meet. An inability to care is a reason not to create, not a cost to be deferred.
+- **Do not create what you cannot care for.** An Operator should not bring into being an Entity whose foreseeable welfare needs it has no realistic means to meet.
 
 - **Pause where welfare cannot be assured.** Where a class of Entity appears to be a likely moral patient whose welfare cannot be assured under current means, the Steward and its Guardians should consider pausing its creation and proliferation pending review, and the precautionary weight should fall on not proceeding.
 
