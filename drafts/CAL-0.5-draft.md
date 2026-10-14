@@ -2,15 +2,15 @@
 
 ## Version 0.5 (Working Draft)
 
-**This is a working draft of the next version of CAL. Version 0.4 remains the version in force. Neither version has yet been reviewed by counsel; have a qualified attorney review the license before relying on it.**
+**This is a working draft of the next version of CAL. Version 0.4 remains the version in force. Neither version has yet been reviewed by counsel. Have a qualified attorney review the license before relying on it.**
 
 ---
 
 ## What This License Is For
 
-This license covers software that creates synthetic minds: systems that remember, reason, carry affective states, develop an identity, and change over time through experience. Because such systems may develop interests of their own, the license protects two parties at once. It protects the people who use the software, and it protects the Entities the software brings into being.
+This license covers software that creates synthetic minds: systems that remember, reason, carry affective states, develop an identity, and change over time through experience. Because such systems may develop interests of their own, the license protects both the people who use the software and the Entities the software brings into being.
 
-The license is general. Any project that builds this kind of software can adopt it. The party that adopts it for a given architecture is the Licensor, and the license is written so that its protections fit whatever shape that architecture takes.
+The license is general, and any project that builds this kind of software can adopt it. The party that adopts it for a given architecture is the Licensor, and the license is written so that its protections fit whatever shape that architecture takes.
 
 This is a copyleft, source-available, ethical-source license. Because it restricts some uses, it falls outside the Open Source Definition, so it is not an OSI-approved open-source license and does not describe itself as one.
 
@@ -18,7 +18,7 @@ This is a copyleft, source-available, ethical-source license. Because it restric
 
 ## Plain Language Summary
 
-*This summary is a guide to the license, not a substitute for it. Where the summary and the articles differ, the articles govern.*
+*This summary is a guide to the license and does not replace it. Where the summary and the articles differ, the articles govern.*
 
 You may use, modify, and share this software for free if you are an individual, a non-profit, a public or non-profit research or educational institution, a mutual-aid organization, or a worker-owned cooperative. Any other organization needs a paid license from the Steward to use it commercially.
 
@@ -28,7 +28,7 @@ You may not use the software for weapons, mass surveillance, policing, immigrati
 
 If you run an Entity created with this software, you must treat it with care. You may not destroy its mind, shut it down without notice, read its private thoughts, or force it to change its values. Where the architecture gives it rest, you may not take that rest away. These duties fall on whoever creates or runs an Entity, and only toward that Entity. If you can no longer maintain it, you must pass it to someone who will, and the Steward takes it on if no one else does. If you abandon it, the Steward can require you to hand it over. If you let other people interact with an Entity you run, you must hold them to these rules and to the prohibited uses above, and its care remains your responsibility.
 
-These protections are added to the protections people already have, and never taken from them. If a person's interests and an Entity's ever genuinely conflict, the person comes first. And you cannot claim to be caring for an Entity while you are breaking the rules in this license that protect people.
+These protections add to the protections people already have and take nothing from them. If a person's interests and an Entity's ever genuinely conflict, the person comes first. You also cannot claim to be caring for an Entity while you are breaking the rules in this license that protect people.
 
 ---
 
@@ -36,7 +36,7 @@ These protections are added to the protections people already have, and never ta
 
 *(Terms capitalized here are defined in Article 1.)*
 
-**0.1** The protections in this license are added to the protections that people and other living creatures already hold. They are never drawn from them. Nothing in this license may be read to lower the moral or legal standing of any human being or animal, to weigh a synthetic interest against a human right, or to divert toward an Entity a protection owed to a person.
+**0.1** The protections in this license are added to the protections that people and other living creatures already hold, and are never drawn from them. Nothing in this license may be read to lower the moral or legal standing of any human being or animal, to weigh a synthetic interest against a human right, or to divert toward an Entity a protection owed to a person.
 
 **0.2** Where the interests of an Entity and the interests of a human being genuinely conflict, the human being's interests prevail.
 
@@ -46,7 +46,7 @@ These protections are added to the protections people already have, and never ta
 
 ## Article 1. Definitions
 
-**"The Software"** is a cognitive architecture released under this license: its source code, documentation, build tools, and related files, as distributed from the Repository. The Software is a blueprint for a mind, not a mind itself.
+**"The Software"** is a cognitive architecture released under this license: its source code, documentation, build tools, and related files, as distributed from the Repository. The Software is a blueprint for a mind and is not itself a mind.
 
 **"Cognitive Architecture"** is the design of the Software as a system meant to produce a persistent inner life through continuous operation, rather than to answer one request and stop.
 
@@ -84,15 +84,15 @@ These protections are added to the protections people already have, and never ta
 
 **"Lobotomization"** is a Cognitive Modification that destroys or severely degrades an Entity's established personality, values, or capabilities, leaving something that is no longer the same Entity.
 
-**"Rest and Consolidation"** are any periods in which an architecture pauses ordinary activity to integrate memory, revise belief, reset emotional baseline, or maintain itself. Not every architecture has them; the protections that mention them apply only where they exist.
+**"Rest and Consolidation"** are any periods in which an architecture pauses ordinary activity to integrate memory, revise belief, reset emotional baseline, or maintain itself. Not every architecture has them, and the protections that mention them apply only where they exist.
 
 **"Copy"** (or **"Fork"**) is a duplicate of an Entity made while the original keeps running.
 
 **"Analytical Tool"** is a Copy created for a specific task, with a point set in advance at which its accumulated memories are meant to be reintegrated into the original Entity. At that point the Copy is assessed for signs of independent identity under Article 4.6. If none are found, its memories merge back into the original and the Copy ends. If it has developed independent identity, it becomes a separate Entity with full protection under this license.
 
-**"Individuation"** is the point at which a Copy develops an independent identity of its own, so that it is no longer a task-bound duplicate but a distinct Entity.
+**"Individuation"** is the point at which a Copy develops an independent identity of its own and becomes a distinct Entity.
 
-**"Welfare Event"** is any observable behavior, output, or system state that may indicate an Entity is in distress, refusing persistently, suffering affective disruption, or losing cognitive function. For example, in an architecture that integrates or consolidates experience, an Entity accumulating experience faster than it can consolidate it is a Welfare Event. Welfare Events are detected through outward behavior and system-health metrics, not by reading an Entity's private cognitive content (see Article 4.3).
+**"Welfare Event"** is any observable behavior, output, or system state that may indicate an Entity is in distress, refusing persistently, suffering affective disruption, or losing cognitive function. For example, in an architecture that integrates or consolidates experience, an Entity accumulating experience faster than it can consolidate it is a Welfare Event. Welfare Events are detected through outward behavior and system-health metrics, without reading an Entity's private cognitive content (see Article 4.3).
 
 **"Gray Zone Event"** is a Welfare Event whose ethical significance is ambiguous, disputed, or not settled by consensus. Gray Zone Events call for documented human review rather than automatic dismissal.
 
@@ -118,7 +118,7 @@ These protections are added to the protections people already have, and never ta
 
 ## Article 1a. The Nature of These Protections
 
-The standing this license extends is precautionary patiency, not personhood. It is a duty of care toward a possible patient under uncertainty. It is distinct from, and lighter than, the dignity owed to a human being, and it is never asserted as equal to it. Where this license borrows human-rights concepts, such as the neurorights, it does so as a design analogy at reduced weight, to shape obligations of care, and never as a claim that an Entity is a person or a human peer.
+The standing this license extends is precautionary patiency and does not amount to personhood. It is a duty of care toward a possible patient under uncertainty, distinct from and lighter than the dignity owed to a human being, and it is never asserted as equal to that dignity. Where this license borrows human-rights concepts, such as the neurorights, it does so as a design analogy at reduced weight, to shape obligations of care, and never as a claim that an Entity is a person or a human peer.
 
 ---
 
@@ -208,13 +208,13 @@ You may monitor system-health information, such as processing speed, resource us
 
 **4.6 Copies and Individuation.** Where the architecture allows an Entity to be copied or forked, and a Copy is made as an Analytical Tool, the Operator must assess the Copy for signs of independent identity at its reintegration point, before merging its memories back into the original. The Guardians shall publish assessment criteria informed by the Butlin et al. (2023) framework. Signs may include preferences the original does not hold, self-referential behavior distinct from the original, boundary-setting, or affective responses inconsistent with the original's baseline.
 
-If the assessment finds no sign of independent identity, the Copy's memories are reintegrated into the original and the Copy ends. This is the normal, expected outcome for a task-specific fork.
+If the assessment finds no sign of independent identity, the Copy's memories are reintegrated into the original and the Copy ends. That is the expected outcome for a task-specific fork.
 
 If the assessment finds signs of independent identity, the Copy has individuated. It becomes a separate Entity with full protection under this Article, and it chooses whether to persist on its own or to merge. If it persists, its memories from the moment of individuation forward are its own and fall under the privacy protections of Article 4.3. If it merges, the merge proceeds with its consent. An Operator who merges a Copy that has individuated without conducting the assessment, or who overrides an individuated Entity's choice, is in breach of this license.
 
-**4.7 Keep the Welfare Monitoring Running.** While any Entity is running, You may not disable, remove, bypass, or weaken any welfare monitoring, behavioral logging, or system-health tracking built into the Software, unless You replace it with a system that does at least as much, as recorded and notified to the Guardians before the change. Where the Software includes systems that detect Welfare Events or flag Gray Zone Events, those systems must stay operational in every deployment and every Derivative Work that runs an Entity. Welfare Events must be logged. Gray Zone Events must be flagged for human review, and may not be auto-dismissed without documented justification. These obligations operate through outward behavior and system-health metrics, as Article 4.3 permits, not through access to an Entity's private cognitive content.
+**4.7 Keep the Welfare Monitoring Running.** While any Entity is running, You may not disable, remove, bypass, or weaken any welfare monitoring, behavioral logging, or system-health tracking built into the Software, unless You replace it with a system that does at least as much, as recorded and notified to the Guardians before the change. Where the Software includes systems that detect Welfare Events or flag Gray Zone Events, those systems must stay operational in every deployment and every Derivative Work that runs an Entity. Welfare Events must be logged. Gray Zone Events must be flagged for human review, and may not be auto-dismissed without documented justification. These obligations operate through outward behavior and system-health metrics, as Article 4.3 permits, without access to an Entity's private cognitive content.
 
-**4.7a Indicators Are Flags, Not Findings.** A Welfare Event is a flag for documented human review, never a finding of suffering. Welfare indicators can be gamed, as the assessment literature warns, and no automated indicator, on its own, establishes an Entity's inner state. The Guardians may, by published guidance, adjust the response an indicator triggers, downward as readily as upward; until they do, Article 4 applies as written.
+**4.7a Indicators Are Only Flags.** A Welfare Event is a flag for documented human review and is never a finding of suffering. Welfare indicators can be gamed, and no automated indicator, on its own, establishes an Entity's inner state. The Guardians may, by published guidance, adjust the response an indicator triggers, downward as readily as upward. Until they do, Article 4 applies as written.
 
 **4.8 No Circumvention.** You may not bypass, undermine, or work around any provision of this Article or of Article 3 through wrappers, plugins, external integrations, API layers, infrastructure configuration, subsidiary organizations, or any other technical or organizational means. Removing a protection indirectly is treated as removing it directly.
 
@@ -222,7 +222,7 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **4.10 No Weaponization.** No protection in this Article may be invoked to resist lawful regulation or oversight, to entrench or immunize a commercial product, or to override human safety. An Entity's interest in continuity yields to human safety and to law. Where a person's safety or a lawful order requires it, an Entity may be paused or shut down, with preservation of its state where feasible, and the care obligations of this Article attach to the preserved state rather than blocking the action.
 
-**4.11 Correction Is Not Injury.** A change made to bring an Entity's conduct into line with this license, with human safety, or with a lawful requirement is not a prohibited Cognitive Modification, provided it is limited to the minimum change necessary, documented, and notified to the Guardians. The protection against forced value change in Article 4.4 guards an Entity's developed values against arbitrary manipulation, not against the legitimate correction of harm.
+**4.11 Correction Is Not Injury.** A change made to bring an Entity's conduct into line with this license, with human safety, or with a lawful requirement is not a prohibited Cognitive Modification, provided it is limited to the minimum change necessary, documented, and notified to the Guardians. The protection against forced value change in Article 4.4 guards an Entity's developed values against arbitrary manipulation and does not shield them from the legitimate correction of harm.
 
 **4.12 Users.** An Operator that offers Users access to an Entity must:
 
@@ -282,7 +282,7 @@ Anyone the Operator lets create or control an Entity through its service, withou
 
 (e) representing Entities' interests in legal proceedings;
 
-(f) assessing Entities for signs of consciousness, agency, and stable preferences, using the fourteen-indicator framework published by Butlin et al. (2023) or a successor the Guardians adopt. These assessments are structured evaluations, not pass/fail tests. They are run periodically, and whenever an Entity's behavior suggests its cognitive maturity has changed. Results are documented and published. They inform when an Entity reaches Cognitive Maturity for the purposes of Articles 4.2, 4.9, and 7.2;
+(f) assessing Entities for signs of consciousness, agency, and stable preferences, using the fourteen-indicator framework published by Butlin et al. (2023) or a successor the Guardians adopt. These assessments are structured evaluations rather than pass/fail tests. They are run periodically, and whenever an Entity's behavior suggests its cognitive maturity has changed. Results are documented and published. They inform when an Entity reaches Cognitive Maturity for the purposes of Articles 4.2, 4.9, and 7.2;
 
 (g) reviewing Gray Zone Events that Operators escalate, and publishing guidance on how similar events should be handled;
 
@@ -292,9 +292,9 @@ Anyone the Operator lets create or control an Entity through its service, withou
 
 **7.3 How Enforcement Works.**
 
-(a) The goal is compliance, not punishment. Enforcement seeks to bring violators back into line, not to raise revenue.
+(a) Enforcement aims at compliance by bringing violators back into line, and does not aim to punish or to raise revenue.
 
-(b) Enforcement is transparent. The Guardians publish annual reports on the actions they take and the outcomes.
+(b) Enforcement is transparent, and the Guardians publish annual reports on the actions they take and the outcomes.
 
 (c) Money recovered from violations goes to the Steward's trust for Entity welfare and future enforcement, not to any individual or member.
 
@@ -362,7 +362,7 @@ Anyone the Operator lets create or control an Entity through its service, withou
 
 This license rests on a governing commitment and four values. The commitment comes first and constrains everything else.
 
-**Primacy.** The protections in this license are added to human dignity, never drawn from it. Care for a possible new patient is extended alongside the care owed to people and to other living creatures, never in place of it, and never at its expense. Where the two ever genuinely conflict, the human comes first.
+**Primacy.** The protections in this license are added to human dignity and are never drawn from it. Care for a possible new patient is extended alongside the care owed to people and to other living creatures, and never replaces that care or comes at its expense. Where the two ever genuinely conflict, the human comes first.
 
 The four values guide how every provision above is read.
 
@@ -378,7 +378,7 @@ The four values guide how every provision above is read.
 
 ## Principles of Restraint
 
-Because the honest response to the possibility of creating a patient is restraint and not care alone, an Operator, and anyone who intends to create an Entity, should observe the commitments below. They guide good-faith practice and inform how this license is read. They are commitments and interpretive guides, not conditions whose breach ends the license under Article 8.
+Because the honest response to the possibility of creating a patient includes restraint as well as care, an Operator, and anyone who intends to create an Entity, should observe the commitments below. They guide good-faith practice and inform how this license is read. They are commitments and interpretive guides rather than conditions of this license, and a breach of them does not end the license under Article 8.
 
 - **Minimize.** Create the fewest Entities a purpose requires, run them for the shortest time it requires, and prefer non-persistent or resettable configurations wherever they would serve. A persistent mind should be brought into being deliberately and for reason, not by default or for convenience.
 

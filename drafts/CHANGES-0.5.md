@@ -5,7 +5,7 @@ Version 0.5 keeps every protection of version 0.4 and changes the legal machiner
 ## Grant and conditions
 
 - Explicit grant (2.1). The Licensor and every Contributor grant the rights in so many words, for the term of the copyright.
-- Acceptance (2.2). Exercising a right accepts the license; without acceptance there is no permission beyond what the law allows anyway.
+- Acceptance (2.2). Exercising a right accepts the license. Without acceptance there is no permission beyond what the law allows anyway.
 - Conditions of the grant (2.3). The obligations in Articles 3 to 6 are conditions of the copyright grant, so using the Software in breach of them falls outside the license and can be pursued as infringement, which is the strongest remedy a license can carry.
 
 ## Sharing, patents, and marks
@@ -38,7 +38,7 @@ Version 0.5 keeps every protection of version 0.4 and changes the legal machiner
 - Surveillance (3.2). The consent rule covers tracking, profiling, or classifying people at scale, so an Entity that recognizes the people it talks to is not caught by it. 3.1 now says military intelligence and military command.
 - Termination and cure (3, 8.2, 8.4). Article 3 no longer says a breach ends the license immediately, which contradicted the cure period. The thirty days run from written notice by the Licensor, the Steward, or the Guardians. A breach cured before any notice is cured.
 - Source and privacy (1, 2.4, 4.2). Corresponding Source never includes an Entity's Cognitive State. A saved state is handed only to a qualifying Operator or to the Guardians, under Article 4.3. A saved state from which an Entity can be restarted counts as that Entity for shutdown, privacy, and survival.
-- Interim Guardians (3.5, 7.0). In the interim the Operator may not issue its own guidance on prohibited uses or enforce the license; the Steward does both. The Guardian body reviews the interim record once it exists.
+- Interim Guardians (3.5, 7.0). In the interim the Operator may not issue its own guidance on prohibited uses or enforce the license, and the Steward does both. The Guardian body reviews the interim record once it exists.
 - Welfare monitoring (4.7). The duty applies while an Entity runs, and a monitor may be replaced by one that does at least as much, so modules stay replaceable.
 - Disclosure (3.6). Labor, provenance, and resource costs are disclosed on request, for Your deployment.
 - No claim of feeling (Purpose, 1, 4.4). The definitions speak of affective states instead of asserting feelings, in line with Article 9.3.
