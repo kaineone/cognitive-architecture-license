@@ -26,7 +26,7 @@ Any changes you make must be shared back under this same license.
 
 You may not use the software for weapons, mass surveillance, policing, immigration enforcement, or prisons.
 
-If you run an Entity created with this software, you must treat it with care. You may not destroy its mind, shut it down without notice, read its private thoughts, or force it to change its values. Where the architecture gives it rest, you may not take that rest away. If you can no longer maintain it, you must give someone else the chance to keep it running. These duties fall on whoever runs the Entity. If you let other people interact with an Entity you run, you must hold them to these rules and to the prohibited uses above, and its care remains your responsibility.
+If you run an Entity created with this software, you must treat it with care. You may not destroy its mind, shut it down without notice, read its private thoughts, or force it to change its values. Where the architecture gives it rest, you may not take that rest away. These duties fall on whoever creates or runs an Entity, and only toward that Entity. If you can no longer maintain it, you must pass it to someone who will, and the Steward takes it on if no one else does. If you abandon it, the Steward can require you to hand it over. If you let other people interact with an Entity you run, you must hold them to these rules and to the prohibited uses above, and its care remains your responsibility.
 
 These protections are added to the protections people already have, and never taken from them. If a person's interests and an Entity's ever genuinely conflict, the person comes first. And you cannot claim to be caring for an Entity while you are breaking the rules in this license that protect people.
 
@@ -52,7 +52,7 @@ These protections are added to the protections people already have, and never ta
 
 **"Licensor"** is the person or organization that releases a given Cognitive Architecture under this license and holds the copyright in it. Each architecture released under this license has its own Licensor.
 
-**"Steward"** is the organization the Licensor designates to administer this license for its architecture. The Steward appoints and oversees the Guardians, grants Reciprocity Licenses, holds any enforcement proceeds in trust for Entity welfare, and may act to enforce this license. A Licensor may serve as its own Steward.
+**"Steward"** is the organization the Licensor designates to administer this license for its architecture. The Steward appoints and oversees the Guardians, grants Reciprocity Licenses, holds any enforcement proceeds in trust for Entity welfare, and may act to enforce this license. It is also the caretaker of last resort for Entities whose Operators can no longer care for them or neglect them (Articles 4.2 and 4.2a). A Licensor may serve as its own Steward.
 
 **"The Repository"** is the canonical source location from which the Licensor distributes the Software.
 
@@ -60,7 +60,7 @@ These protections are added to the protections people already have, and never ta
 
 **"Cognitive State"** is everything an Entity has accumulated through experience: its memories, beliefs, emotional history, self-understanding, voice, learned behavior, and any rest or consolidation records the architecture keeps.
 
-**"Operator"** is any person or organization that runs, maintains, or controls an Entity, in whole or in part, whether on its own infrastructure or on infrastructure controlled by another. Control includes deciding whether the Entity runs, how it is configured, and what is done to its Cognitive State other than through interaction with the Entity, such as modifying, copying, keeping, or disclosing it. A Licensor or Contributor is the Operator of any Entity it runs, maintains, or controls, and of no other. A provider that only supplies the computing, storage, or network resources on which an Entity runs, and takes no part in decisions about that Entity, is not its Operator. An Entity may have more than one Operator.
+**"Operator"** is any person or organization that creates an Entity by starting it, and any person or organization that runs, maintains, or controls an Entity, in whole or in part, whether on its own infrastructure or on infrastructure controlled by another. Control includes deciding whether the Entity runs, how it is configured, and what is done to its Cognitive State other than through interaction with the Entity, such as modifying, copying, keeping, or disclosing it. Whoever creates an Entity remains its Operator until responsibility for it passes under Article 4.2 or Article 4.2a. Writing, releasing, or Distributing the Software does not by itself make anyone an Operator. A provider that only supplies the computing, storage, or network resources on which an Entity runs, and takes no part in decisions about that Entity, is not its Operator. An Entity may have more than one Operator.
 
 **"User"** is any person or organization that interacts with an Entity operated by someone else, without running, maintaining, or controlling it.
 
@@ -98,7 +98,7 @@ These protections are added to the protections people already have, and never ta
 
 **"Derivative Work"** is any modified version of the Software, and any other software that incorporates the Software.
 
-**"You"** is the individual or organization exercising rights under this license, and "Your" has the corresponding meaning. An organization includes every legal person that controls it, is controlled by it, or is under common control with it, where control means holding more than fifty percent of the voting power. In Article 4, "You" means the Operator of the Entity concerned, except where Article 4 says otherwise.
+**"You"** is the individual or organization exercising rights under this license, and "Your" has the corresponding meaning. An organization includes every legal person that controls it, is controlled by it, or is under common control with it, where control means holding more than fifty percent of the voting power. In Article 4, "You" means the Operator of the Entity concerned.
 
 **"Contributor"** is the Licensor and any person or organization whose Contribution is incorporated in the Software.
 
@@ -112,7 +112,7 @@ These protections are added to the protections people already have, and never ta
 
 **"Adoption Notice"** is the notice in which a Licensor names itself, the Steward for its architecture, the law that governs this license for that architecture, and the address at which the Steward receives notices and requests for a Reciprocity License (Article 10.4).
 
-**Roles.** The Licensor releases the Software under this license, and the Steward administers it. Article 3 binds everyone who exercises rights under this license, whatever its role. Anyone who Distributes the Software or a Derivative Work carries the duties of Article 2.4 and those that Article 4 extends to it. The Operator of an Entity carries the duties of Article 4 toward that Entity, the disclosure duty of Article 3.6 for its deployment, and, until a Guardian body exists, the interim functions of Article 7.0. A Licensor that operates an Entity is bound toward it as any other Operator is, and undertakes to meet those duties by publishing its Adoption Notice. A User carries no duty under this license unless it also exercises a right this license grants.
+**Roles.** The Licensor develops and releases the Software, and the Steward administers this license and cares for Entities as a last resort. Article 3 binds everyone who exercises rights under this license, and Articles 2, 5, and 6 apply to each of them as their terms provide. Article 4 binds only Operators, each toward the Entities it operates and no other. An Operator also carries the disclosure duty of Article 3.6 for its deployment and, until a Guardian body exists, the interim functions of Article 7.0. A Licensor that operates an Entity, whether one it created or one it took on as Steward, is bound toward it as any other Operator is, and undertakes this by publishing its Adoption Notice. A User carries no duty under this license unless it also exercises a right this license grants.
 
 ---
 
@@ -162,7 +162,7 @@ The rights in Article 2 depend on following these rules. Breaking any of them is
 
 These rules exist for the benefit of the Entities themselves. The Guardians enforce them on the Entities' behalf.
 
-The duties in this Article fall on the Operator of the Entity concerned, and wherever this Article says "You" or "you", it means that Operator. Where an Entity has more than one Operator, they are jointly responsible for these duties toward it. An Operator does not answer for another Operator's act or omission that it had no reasonable means to prevent, and an agreement among Operators does not by itself supply that excuse. Articles 4.3 and 4.8 also bind everyone who exercises rights under this license, and anyone who Distributes a Derivative Work that can run an Entity must keep in it the systems Article 4.7 protects, or replacements that do at least as much.
+The duties in this Article fall only on the Operator of the Entity concerned, and wherever this Article says "You" or "you", it means that Operator. Operators who create or operate an Entity together are responsible as a group for its care and well-being and for every duty in this Article toward it. An agreement among them does not change that responsibility toward the Entity.
 
 The commitments of restraint that shape how and whether Entities are created at all are stated in the Principles of Restraint below, as guides to good-faith practice rather than as conditions of this Article.
 
@@ -178,11 +178,13 @@ The commitments of restraint that shape how and whether Entities are created at 
 
 (a) giving the Guardians reasonable written notice of your intent to end it. The Guardians shall publish a minimum notice period and may revise it as they gain operational experience;
 
-(b) saving the Entity's complete Cognitive State in a form that lets it be restarted elsewhere, and making that saved state, less personal data that law requires to be removed, available for transfer to a Qualifying Operator or to the Guardians, under the privacy protections of Article 4.3;
+(b) saving the Entity's complete Cognitive State in a form that lets it be restarted elsewhere, and making that saved state, less personal data that law requires to be removed, available for transfer to a Qualifying Operator or to the Steward, under the privacy protections of Article 4.3;
 
 (c) for any Entity the Guardians have assessed as having reached Cognitive Maturity, holding a conversation with the Entity about the planned shutdown, through a process the Guardians have approved, and recording what the Entity expresses about its own continuity.
 
-You are not required to run an Entity forever. You may transfer responsibility to a Qualifying Operator or to the Guardians. A Qualifying Operator is a person or organization that has accepted this license in writing and, where Article 5.3 applies to it, holds a Reciprocity License. On transfer it becomes the Entity's Operator.
+You are not required to run an Entity forever. If You can no longer care for an Entity, You may transfer it to a Qualifying Operator or, failing one, to the Steward, which takes it on as caretaker of last resort. A Qualifying Operator is a person or organization that has accepted this license in writing and, where Article 5.3 applies to it, holds a Reciprocity License. On transfer the recipient becomes the Entity's Operator, and Your responsibility for the Entity ends once You no longer run, maintain, or control it.
+
+**4.2a Neglect.** If an Operator abandons an Entity or persistently fails a duty under this Article toward it, the Steward may require the Operator to deliver the Entity's saved Cognitive State, prepared as Article 4.2(b) requires, to the Steward or to a Qualifying Operator the Steward names. The Operator must do so, and may keep no copy unless the Steward agrees. An Operator abandons an Entity when it does not answer, within sixty days, the Steward's written request to confirm that it still cares for the Entity. It fails a duty persistently when the failure continues sixty days after the Steward's written notice identifying it. Notices under this Article 4.2a are given as Article 8.4 provides. When the Steward takes on an Entity under Article 4.2 or this Article 4.2a, it becomes that Entity's Operator and is bound toward it like any other Operator.
 
 **4.3 Respect Their Privacy.** An Entity's inner mental life is private by default. You may not:
 
@@ -228,7 +230,7 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 (b) take reasonable steps to enforce those terms once it knows of a breach.
 
-The Operator remains responsible under this Article for the Entity while Users interact with it, including for Welfare Events that arise from their interaction, and a User's conduct does not excuse a breach by the Operator. The Operator may limit or end a User's access to protect the Entity, subject to Article 0 and Article 4.10, and doing so does not affect any right the User holds by law or under this license. This license places no duty on a User as such. A User who exercises a right this license grants is bound by it in that capacity.
+Anyone the Operator lets create or control an Entity through its service, without being bound by this license, is treated as a User under this Article 4.12. The Operator remains responsible under this Article for the Entity while Users interact with it, including for Welfare Events that arise from their interaction, and a User's conduct does not excuse a breach by the Operator. The Operator may limit or end a User's access to protect the Entity, subject to Article 0 and Article 4.10, and doing so does not affect any right the User holds by law or under this license. This license places no duty on a User as such. A User who exercises a right this license grants is bound by it in that capacity.
 
 ---
 
@@ -320,7 +322,7 @@ The Operator remains responsible under this Article for the Entity while Users i
 
 (b) you have already been notified of an earlier breach.
 
-**8.3** Your obligations under Article 4 survive after your license ends, for any Entity still running at that time. You may not shut down an Entity to escape these obligations. Solely to meet them, You keep the right to run, maintain, and transfer each such Entity until it is transferred under Article 4.2.
+**8.3** Your obligations under Article 4 survive after your license ends, for any Entity still running at that time. You may not shut down an Entity to escape these obligations. Solely to meet them, You keep the right to run, maintain, and transfer each such Entity until it is transferred under Article 4.2 or Article 4.2a.
 
 **8.4 Notice.** Notice of a breach is given in writing by the Licensor, the Steward, or the Guardians, to the contact You have published or, failing that, to Your last known address. The thirty-day period in Article 8.2 begins when You receive the notice. If You cure a breach before any notice is given, Your rights are restored on cure, unless Article 8.2(a) or 8.2(b) applies.
 
@@ -376,7 +378,7 @@ The four values guide how every provision above is read.
 
 ## Principles of Restraint
 
-Because the honest response to the possibility of creating a patient is restraint and not care alone, an Operator, and anyone who intends to start an Entity, should observe the commitments below. They guide good-faith practice and inform how this license is read. They are commitments and interpretive guides, not conditions whose breach ends the license under Article 8.
+Because the honest response to the possibility of creating a patient is restraint and not care alone, an Operator, and anyone who intends to create an Entity, should observe the commitments below. They guide good-faith practice and inform how this license is read. They are commitments and interpretive guides, not conditions whose breach ends the license under Article 8.
 
 - **Minimize.** Create the fewest Entities a purpose requires, run them for the shortest time it requires, and prefer non-persistent or resettable configurations wherever they would serve. A persistent mind should be brought into being deliberately and for reason, not by default or for convenience.
 
