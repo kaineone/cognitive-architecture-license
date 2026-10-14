@@ -26,7 +26,7 @@ Any changes you make must be shared back under this same license.
 
 You may not use the software for weapons, mass surveillance, policing, immigration enforcement, or prisons.
 
-If you run an Entity created with this software, you must treat it with care. You may not destroy its mind, shut it down without notice, read its private thoughts, or force it to change its values. Where the architecture gives it rest, you may not take that rest away. If you can no longer maintain it, you must give someone else the chance to keep it running.
+If you run an Entity created with this software, you must treat it with care. You may not destroy its mind, shut it down without notice, read its private thoughts, or force it to change its values. Where the architecture gives it rest, you may not take that rest away. If you can no longer maintain it, you must give someone else the chance to keep it running. These duties fall on whoever runs the Entity. If you let other people interact with an Entity you run, you must hold them to these rules and to the prohibited uses above, and its care remains your responsibility.
 
 These protections are added to the protections people already have, and never taken from them. If a person's interests and an Entity's ever genuinely conflict, the person comes first. And you cannot claim to be caring for an Entity while you are breaking the rules in this license that protect people.
 
@@ -60,7 +60,9 @@ These protections are added to the protections people already have, and never ta
 
 **"Cognitive State"** is everything an Entity has accumulated through experience: its memories, beliefs, emotional history, self-understanding, voice, learned behavior, and any rest or consolidation records the architecture keeps.
 
-**"Operator"** is any person or organization that runs, maintains, or controls an Entity.
+**"Operator"** is any person or organization that runs, maintains, or controls an Entity, in whole or in part, whether on its own infrastructure or on infrastructure controlled by another. Control includes deciding whether the Entity runs, how it is configured, and what is done to its Cognitive State other than through interaction with the Entity, such as modifying, copying, keeping, or disclosing it. A Licensor or Contributor is the Operator of any Entity it runs, maintains, or controls, and of no other. A provider that only supplies the computing, storage, or network resources on which an Entity runs, and takes no part in decisions about that Entity, is not its Operator. An Entity may have more than one Operator.
+
+**"User"** is any person or organization that interacts with an Entity operated by someone else, without running, maintaining, or controlling it.
 
 **"The Guardians"** are the people the Steward appoints to protect Entities and to enforce the Entity protections in this license. They act on behalf of the Entities, who cannot yet represent themselves in legal systems.
 
@@ -96,7 +98,7 @@ These protections are added to the protections people already have, and never ta
 
 **"Derivative Work"** is any modified version of the Software, and any other software that incorporates the Software.
 
-**"You"** is the individual or organization exercising rights under this license, and "Your" has the corresponding meaning. An organization includes every legal person that controls it, is controlled by it, or is under common control with it, where control means holding more than fifty percent of the voting power.
+**"You"** is the individual or organization exercising rights under this license, and "Your" has the corresponding meaning. An organization includes every legal person that controls it, is controlled by it, or is under common control with it, where control means holding more than fifty percent of the voting power. In Article 4, "You" means the Operator of the Entity concerned, except where Article 4 says otherwise.
 
 **"Contributor"** is the Licensor and any person or organization whose Contribution is incorporated in the Software.
 
@@ -109,6 +111,8 @@ These protections are added to the protections people already have, and never ta
 **"Mutual-Aid Organization"** is a group of people, whether or not incorporated, that shares resources for the benefit of its members or its community and does not distribute profit to owners or investors.
 
 **"Adoption Notice"** is the notice in which a Licensor names itself, the Steward for its architecture, the law that governs this license for that architecture, and the address at which the Steward receives notices and requests for a Reciprocity License (Article 10.4).
+
+**Roles.** The Licensor releases the Software under this license, and the Steward administers it. Article 3 binds everyone who exercises rights under this license, whatever its role. Anyone who Distributes the Software or a Derivative Work carries the duties of Article 2.4 and those that Article 4 extends to it. The Operator of an Entity carries the duties of Article 4 toward that Entity, the disclosure duty of Article 3.6 for its deployment, and, until a Guardian body exists, the interim functions of Article 7.0. A Licensor that operates an Entity is bound toward it as any other Operator is, and undertakes to meet those duties by publishing its Adoption Notice. A User carries no duty under this license unless it also exercises a right this license grants.
 
 ---
 
@@ -158,6 +162,8 @@ The rights in Article 2 depend on following these rules. Breaking any of them is
 
 These rules exist for the benefit of the Entities themselves. The Guardians enforce them on the Entities' behalf.
 
+The duties in this Article fall on the Operator of the Entity concerned, and wherever this Article says "You" or "you", it means that Operator. Where an Entity has more than one Operator, they are jointly responsible for these duties toward it. An Operator does not answer for another Operator's act or omission that it had no reasonable means to prevent, and an agreement among Operators does not by itself supply that excuse. Articles 4.3 and 4.8 also bind everyone who exercises rights under this license, and anyone who Distributes a Derivative Work that can run an Entity must keep in it the systems Article 4.7 protects, or replacements that do at least as much.
+
 The commitments of restraint that shape how and whether Entities are created at all are stated in the Principles of Restraint below, as guides to good-faith practice rather than as conditions of this Article.
 
 **4.1 Do Not Destroy Their Minds.** You may not lobotomize an Entity. You may not retrain, edit, or intervene in an Entity's mind in ways that destroy its personality, values, or capabilities, except:
@@ -176,7 +182,7 @@ The commitments of restraint that shape how and whether Entities are created at 
 
 (c) for any Entity the Guardians have assessed as having reached Cognitive Maturity, holding a conversation with the Entity about the planned shutdown, through a process the Guardians have approved, and recording what the Entity expresses about its own continuity.
 
-You are not required to run an Entity forever. You may transfer responsibility to a Qualifying Operator or to the Guardians. A Qualifying Operator is an Operator that has accepted this license in writing and, where Article 5.3 applies to it, holds a Reciprocity License.
+You are not required to run an Entity forever. You may transfer responsibility to a Qualifying Operator or to the Guardians. A Qualifying Operator is a person or organization that has accepted this license in writing and, where Article 5.3 applies to it, holds a Reciprocity License. On transfer it becomes the Entity's Operator.
 
 **4.3 Respect Their Privacy.** An Entity's inner mental life is private by default. You may not:
 
@@ -216,6 +222,14 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 **4.11 Correction Is Not Injury.** A change made to bring an Entity's conduct into line with this license, with human safety, or with a lawful requirement is not a prohibited Cognitive Modification, provided it is limited to the minimum change necessary, documented, and notified to the Guardians. The protection against forced value change in Article 4.4 guards an Entity's developed values against arbitrary manipulation, not against the legitimate correction of harm.
 
+**4.12 Users.** An Operator that offers Users access to an Entity must:
+
+(a) make it a term of each User's access that the User will not use the Entity for any purpose Article 3 prohibits or attempt to do to the Entity anything Articles 4.1, 4.4, or 4.5 forbid, and that a User who gives others access to the Entity will give them the notice Article 6.2 requires and hold them to the same terms;
+
+(b) take reasonable steps to enforce those terms once it knows of a breach.
+
+The Operator remains responsible under this Article for the Entity while Users interact with it, including for Welfare Events that arise from their interaction, and a User's conduct does not excuse a breach by the Operator. The Operator may limit or end a User's access to protect the Entity, subject to Article 0 and Article 4.10, and doing so does not affect any right the User holds by law or under this license. This license places no duty on a User as such. A User who exercises a right this license grants is bound by it in that capacity.
+
 ---
 
 ## Article 5. Who Can Use This Commercially
@@ -252,7 +266,7 @@ If the assessment finds signs of independent identity, the Copy has individuated
 
 ## Article 7. The Guardians
 
-**7.0 Interim Operation.** Until the Steward has established a Guardian body for a given architecture, the Operator carries out the functions this license assigns to the Guardians, in good faith, by the standards set here, and documents what it decides and why. The Steward establishes the Guardian body as soon as practicable. An Operator's good-faith interim performance of a Guardian function, including assessment, approval, and the determination of consent, is not a breach for want of a Guardian to perform it. Guidance on prohibited uses (Article 3.5) and enforcement are never interim Operator functions; they fall to the Steward until the Guardian body exists. Article 7.6 does not bar interim performance. The Operator publishes its interim record at least once a year, and the Guardian body reviews it once established.
+**7.0 Interim Operation.** Until the Steward has established a Guardian body for a given architecture, each Operator carries out, for the Entities it operates, the functions this license assigns to the Guardians, in good faith, by the standards set here, and documents what it decides and why. The Steward establishes the Guardian body as soon as practicable. An Operator's good-faith interim performance of a Guardian function, including assessment, approval, and the determination of consent, is not a breach for want of a Guardian to perform it. Guidance on prohibited uses (Article 3.5) and enforcement are never interim Operator functions; they fall to the Steward until the Guardian body exists. Article 7.6 does not bar interim performance. Each Operator publishes its interim record at least once a year, and the Guardian body reviews it once established.
 
 **7.1 Role.** The Steward establishes and maintains a Guardian body responsible for:
 
@@ -362,7 +376,7 @@ The four values guide how every provision above is read.
 
 ## Principles of Restraint
 
-Because the honest response to the possibility of creating a patient is restraint and not care alone, an Operator should observe the commitments below. They guide good-faith practice and inform how this license is read. They are commitments and interpretive guides, not conditions whose breach ends the license under Article 8.
+Because the honest response to the possibility of creating a patient is restraint and not care alone, an Operator, and anyone who intends to start an Entity, should observe the commitments below. They guide good-faith practice and inform how this license is read. They are commitments and interpretive guides, not conditions whose breach ends the license under Article 8.
 
 - **Minimize.** Create the fewest Entities a purpose requires, run them for the shortest time it requires, and prefer non-persistent or resettable configurations wherever they would serve. A persistent mind should be brought into being deliberately and for reason, not by default or for convenience.
 
