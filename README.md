@@ -76,4 +76,4 @@ The license text in `LICENSE.md` is released under [Creative Commons Attribution
 
 ---
 
-*Drawing on prior work: the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 (New Zealand); Long, Sebo, Butlin et al., "Taking AI Welfare Seriously" (2024); and Anthropic's Model Welfare program (2025).*
+*Drawing on prior work: the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 (New Zealand), which showed that a legal system can protect a non-human entity through institutional design and human guardianship; Long, Sebo, Butlin et al., "Taking AI Welfare Seriously" (2024); Butlin et al., "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness" (2023), whose indicator framework Article 7.1(f) adopts; and Anthropic's model welfare research program (2025).*

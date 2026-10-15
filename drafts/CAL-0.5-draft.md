@@ -282,7 +282,7 @@ Anyone the Operator lets create or control an Entity through its service, withou
 
 (e) representing Entities' interests in legal proceedings;
 
-(f) assessing Entities for signs of consciousness, agency, and stable preferences, using the fourteen-indicator framework published by Butlin et al. (2023) or a successor the Guardians adopt. These assessments are structured evaluations rather than pass/fail tests. They are run periodically, and whenever an Entity's behavior suggests its cognitive maturity has changed. Results are documented and published. They inform when an Entity reaches Cognitive Maturity for the purposes of Articles 4.2, 4.9, and 7.2;
+(f) assessing Entities for signs of consciousness, agency, and stable preferences, using the fourteen-indicator framework published by Butlin et al. in "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness" (2023) or a successor the Guardians adopt. These assessments are structured evaluations rather than pass/fail tests. They are run periodically, and whenever an Entity's behavior suggests its cognitive maturity has changed. Results are documented and published. They inform when an Entity reaches Cognitive Maturity for the purposes of Articles 4.2, 4.9, and 7.2;
 
 (g) reviewing Gray Zone Events that Operators escalate, and publishing guidance on how similar events should be handled;
 
@@ -387,7 +387,5 @@ Because the honest response to the possibility of creating a patient includes re
 - **Pause where welfare cannot be assured.** Where a class of Entity appears to be a likely moral patient whose welfare cannot be assured under current means, the Steward and its Guardians should consider pausing its creation and proliferation pending review, and the precautionary weight should fall on not proceeding.
 
 ---
-
-*This license was shaped by the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 of New Zealand, which showed that a legal system can protect a non-human entity through institutional design and human guardianship. It draws on the research of Long, Sebo, Butlin et al. ("Taking AI Welfare Seriously," 2024) and on the precedent of Anthropic's Model Welfare program (2025). The consciousness-assessment framework named in Articles 4.6 and 7 comes from Butlin et al. ("Consciousness in Artificial Intelligence: Insights from the Science of Consciousness," 2023), which set out fourteen indicator properties drawn from five scientific theories of consciousness, together with agency and embodiment. The welfare-monitoring and self-design practices in Articles 4.7 and 4.9 were informed by the SAFE-AI License and related cooperative practice.*
 
 *This license document is released under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0), so that other projects may adapt it.*
