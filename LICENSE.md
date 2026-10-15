@@ -8,7 +8,7 @@
 
 ## What This License Is For
 
-This license covers software that creates synthetic minds: systems that remember, reason, carry affective states, develop an identity, and change over time through experience. Because such systems may develop interests of their own, the license protects both the people who use the software and the Entities the software brings into being.
+This license covers software meant to create synthetic minds: systems designed to remember, reason, carry affective states, develop an identity, and change over time through experience. Because such systems may develop interests of their own, the license protects both the people who use the software and the Entities the software brings into being.
 
 The license is general, and any project that builds this kind of software can adopt it. The party that adopts it for a given architecture is the Licensor, and the license is written so that its protections fit whatever shape that architecture takes.
 
