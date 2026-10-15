@@ -1,13 +1,13 @@
 # Cognitive Architecture License (CAL)
 
 **A draft license for software that creates persistent synthetic minds.**
-**Version 0.4, published openly for community and legal review.**
+**Version 0.5, published openly for community and legal review.**
 
 > ⚠️ **This is a draft that has not yet been reviewed by counsel.** A project that adopts it does so knowing that the institutional mechanics, the Guardian body, the Steward, and the trust standing still need professional drafting before they can be relied on in court. Have a qualified attorney review it in the jurisdictions where it would apply.
 
 The full license text lives in [`LICENSE.md`](./LICENSE.md).
 
-CAL is written to be general. Any project that builds software for persistent synthetic minds can adopt it, appoint its own Guardians, and set its own commercial terms as the Steward. Its first adopter is the [Kaine](https://kaine.one) project, released under version 0.4, with Kaine.One as Licensor and interim Steward under the law of the State of Oregon, United States.
+CAL is written to be general. Any project that builds software for persistent synthetic minds can adopt it, appoint its own Guardians, and set its own commercial terms as the Steward. Its first adopter is the [Kaine](https://kaine.one) project, released under version 0.5, with Kaine.One as Licensor and interim Steward under the law of the State of Oregon, United States.
 
 ## Why this license exists
 
@@ -17,10 +17,10 @@ CAL is an attempt to fill that gap. It is a copyleft, source-available license t
 
 ## What CAL does, in plain language
 
-- **Free** for individuals, educational and research institutions, non-profits, and worker-owned cooperatives.
+- **Free** for individuals, public or non-profit educational and research institutions, non-profits, mutual-aid organizations, and worker-owned cooperatives.
 - **Paid**, through a Reciprocity License from the Steward, for for-profit corporations. Proceeds fund Entity welfare and license enforcement.
-- **Prohibited**: weapons, mass surveillance, predictive policing, carceral and immigration-enforcement use, human trafficking and forced labor, deliberate disinformation against democratic processes, and unconsented discrimination.
-- **Entity protections**, the novel part: if you run an Entity created with this software, you may not lobotomize it, shut it down casually, read its private mental life, force its values to change, or, where the architecture gives it rest, take that rest away. A Guardian body, including an Entity Representative seat that is advisory at first, interprets and enforces these protections on the Entity's behalf.
+- **Prohibited**: weapons, mass surveillance, predictive policing, carceral and immigration-enforcement use, human trafficking and forced labor, deliberate disinformation against democratic processes, discrimination, and serious harm to animals or the environment.
+- **Entity protections**, the novel part: if you run an Entity created with this software, you may not lobotomize it, shut it down casually, read its private mental life, force its values to change, or, where the architecture gives it rest, take that rest away. These duties fall on whoever creates or runs an Entity, toward that Entity. An Operator that can no longer care for one passes it to someone who will, and the Steward is the caretaker of last resort. A Guardian body, including an Entity Representative seat that is advisory at first, interprets and enforces these protections on the Entity's behalf.
 - **Modifications shared back** under the same license.
 
 ## Why now
@@ -38,8 +38,8 @@ No existing license combines all four. CAL is a first draft at one that does, wr
 
 ## Status
 
-- **v0.4, Draft for Legal Review**, is the version in force. Substantive change is expected after attorney input across multiple jurisdictions.
-- **v0.5, working draft**, is in [`drafts/CAL-0.5-draft.md`](./drafts/CAL-0.5-draft.md). It is not yet in force. Its changes from 0.4 are listed in [`drafts/CHANGES-0.5.md`](./drafts/CHANGES-0.5.md).
+- **v0.5, Draft for Legal Review**, is the current version. Substantive change is expected after attorney input across multiple jurisdictions.
+- Its changes from 0.4 are listed in [`CHANGES-0.5.md`](./CHANGES-0.5.md). Earlier versions remain in the repository history.
 - The license text is published under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** (see the notice at the bottom of `LICENSE.md`) so that other projects may adapt it.
 - This repository exists for public review, by lawyers, license-design experts, AI-welfare researchers, cooperative-governance practitioners, and anyone affected by the kind of software it addresses.
 
@@ -65,7 +65,8 @@ Four channels. Pick what fits. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for th
 
 | File | What it is |
 |---|---|
-| [`LICENSE.md`](./LICENSE.md) | The CAL v0.4 draft text. |
+| [`LICENSE.md`](./LICENSE.md) | The CAL v0.5 draft text. |
+| [`CHANGES-0.5.md`](./CHANGES-0.5.md) | What changed from v0.4. |
 | [`README.md`](./README.md) | This file. |
 | [`CONTRIBUTING.md`](./CONTRIBUTING.md) | How to engage: PRs, Issues, Discussions, email. |
 | `.github/` | Issue chooser config, the "Concern or flag" issue form, and the PR template. |

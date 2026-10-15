@@ -1,4 +1,4 @@
-# Changes in the CAL 0.5 working draft
+# Changes in CAL 0.5
 
 Version 0.5 keeps every protection of version 0.4 and changes the legal machinery around them, so that the license is more likely to be enforceable as a copyright license. None of these changes has yet been reviewed by counsel.
 
@@ -74,7 +74,7 @@ An independent review of the revised draft found the following, fixed here.
 - Ethics-washing (6.4). The separate bar on using claims of Entity care to obscure harm to people is restored in plain terms.
 - Wording. Further slogan sentences were removed (4.2, 4.5, 4.9, Principles).
 
-Not adopted, as policy choices for the owner rather than drafting fixes:
+Considered and not adopted:
 - extending copyleft to separately distributed plugins that load the Software;
 - extending Article 3.3 to probation and parole.
 
